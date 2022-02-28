@@ -1,6 +1,7 @@
 import React from 'react'
 import HomePage from "./components/HomePage/HomePage"
 import Resume from "./components/Resume/Resume"
+import Blog from "./components/Blog/Blog"
 import "./App.css"
 
 import {
@@ -14,16 +15,21 @@ function App() {
   return (
     <div>
       <BrowserRouter>
-
-        <div className='absolute right-0'>
-          <Link to="/Home" className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded'>Home</Link>
-          {" "}
-          <Link to="/Resume" className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded'>Resume</Link>
-        </div>
+        {/* <div className="relative left-20 bg-blue-400 w-50 h-8"> */}
+          <div className='absolute right-0'>
+            <Link to="/Home" className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded'>Home</Link>
+            {" "}
+            <Link to="/Resume" className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded'>Resume</Link>
+            {" "}
+            <Link to="/Blog" className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded'>Blog</Link>
+          </div>
+        {/* </div> */}
 
         <Routes>
           <Route path="/" element={<HomePage />} />
+          <Route path="/Home" element={<HomePage />} />
           <Route path="Resume" element={<Resume />} />
+          <Route path="Blog" element={<Blog />} />
         </Routes>
       </BrowserRouter>
     </div>
