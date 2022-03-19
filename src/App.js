@@ -15,7 +15,7 @@ function App() {
   return (
     <div class="website">
       <BrowserRouter>
-        <div>
+        <div class="Wrapper">
           <div class="NavContainer">
             <Link to="/Home" class="NavButton">Home</Link>
             {" "}
@@ -24,10 +24,11 @@ function App() {
             <Link to="/Blog" class="NavButton">Blog</Link>
           </div>
 
-          <div>
-            <p class="Logo">Kyle Pu</p>
-            <hr></hr>
+          <div class="Logo">
+            <p>Kyle Pu</p>
           </div>
+
+          <hr></hr>
         </div>
 
         <Routes>

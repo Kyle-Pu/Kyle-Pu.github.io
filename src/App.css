@@ -19,12 +19,18 @@ hr{
     font-size: 300%;
     position: relative;
     padding-left: 10%;
+    /*border: 2px solid orange;*/ /*FOR DEBUGGING*/
+    width: 30%;
+}
+
+.Wrapper{
+    overflow: hidden;
 }
 
 .NavContainer{
-    float: right;
     position: relative;
     padding-right: 10%;
+    float: right;
 }
 
 .NavButton{
@@ -32,7 +38,12 @@ hr{
     position: relative;
     font-size: 250%;
     font-weight: 600;
-    padding-left: 60px;
+    padding-left: 30px;
+    padding-right: 30px;
     color: rgb(55, 88, 235);
     top: 8px;
+}
+
+.NavButton:hover{
+    color: lightskyblue;
 }

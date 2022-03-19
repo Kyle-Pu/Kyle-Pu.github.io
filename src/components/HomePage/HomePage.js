@@ -3,7 +3,11 @@ import "./HomePage.css"
 
 function HomePage() {
   return (
-    <h1>Hi!</h1>
+    <div class="Container">
+      <div class="Picture">
+        <img src={require("../../imgs/pfp.jpeg")} alt="Profile picture" />
+      </div>
+    </div>
   );
 }
 
