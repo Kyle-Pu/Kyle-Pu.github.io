@@ -5,3 +5,34 @@
 nav .navbar-nav li a {
     color:rgb(126, 157, 184)
 }
+
+hr{
+    background-color:lightblue;
+    color:lightblue;
+    height: 2px;
+}
+
+.Logo{
+    color:rgba(28, 116, 239, 0.996);
+    font-family: Optima;
+    font-weight:900;
+    font-size: 300%;
+    position: relative;
+    padding-left: 10%;
+}
+
+.NavContainer{
+    float: right;
+    position: relative;
+    padding-right: 10%;
+}
+
+.NavButton{
+    font-family: Optima;
+    position: relative;
+    font-size: 250%;
+    font-weight: 600;
+    padding-left: 60px;
+    color: rgb(55, 88, 235);
+    top: 8px;
+}

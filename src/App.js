@@ -13,17 +13,22 @@ import {
 
 function App() {
   return (
-    <div>
+    <div class="website">
       <BrowserRouter>
-        {/* <div className="relative left-20 bg-blue-400 w-50 h-8"> */}
-          <div className='absolute right-0'>
-            <Link to="/Home" className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded'>Home</Link>
+        <div>
+          <div class="NavContainer">
+            <Link to="/Home" class="NavButton">Home</Link>
             {" "}
-            <Link to="/Resume" className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded'>Resume</Link>
+            <Link to="/Resume" class="NavButton">Resume</Link>
             {" "}
-            <Link to="/Blog" className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded'>Blog</Link>
+            <Link to="/Blog" class="NavButton">Blog</Link>
           </div>
-        {/* </div> */}
+
+          <div>
+            <p class="Logo">Kyle Pu</p>
+            <hr></hr>
+          </div>
+        </div>
 
         <Routes>
           <Route path="/" element={<HomePage />} />
