@@ -6,9 +6,41 @@
 .Picture{
     position: absolute;
     margin: 0 auto;
-    top: 50%;
+    top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
     overflow: hidden; /*Hide what falls outside of the div*/
+    width: 380px;
+    height: auto;
     border-radius: 20%;
+}
+
+.Caption{
+    position: absolute;
+    top: 75%;
+    left: 0%;
+    right: 0%;
+    text-align: center;
+}
+
+.Caption p{
+    font-family: Optima;
+    font-size: 30px;
+    color: rgb(54, 136, 243);
+}
+
+.Question{
+    display: inline-block;
+}
+
+.Question:hover{
+    color: lightblue;
+}
+
+.Answer{
+    visibility: hidden;
+}
+
+.Question:hover + .Answer{
+    visibility: visible;
 }
