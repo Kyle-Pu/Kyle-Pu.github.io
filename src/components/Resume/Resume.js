@@ -3,7 +3,9 @@ import "./Resume.css"
 
 function Resume() {
   return (
-    <p>RESUME HERE</p>
+    <div class="Container">
+      <iframe src={require("../../data/resume.pdf")} width="100%" height="100%"/>
+    </div>
   );
 }
 

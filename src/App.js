@@ -19,7 +19,7 @@ function App() {
           <div class="NavContainer">
             <Link to="/Home" class="NavButton">Home</Link>
             {" "}
-            <Link to="/Resume" class="NavButton">Resume</Link>
+            <Link to="/Resume" class="NavButton">Résumé</Link>
             {" "}
             <Link to="/Blog" class="NavButton">Blog</Link>
           </div>
