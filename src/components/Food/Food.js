@@ -3,7 +3,7 @@ import "./Food.css"
 
 function Food() {
     return (
-        <div class="Container">
+        <div className="Container">
             <p>Near UCLA: Nothern Cafe, Mr. Noodle</p>
         </div>
     );

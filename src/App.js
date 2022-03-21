@@ -14,21 +14,19 @@ import {
 
 function App() {
   return (
-    <div class="website">
+    <div className="website">
       <BrowserRouter>
-        <div class="Wrapper">
-          <div class="NavContainer">
-            <Link to="/Home" class="NavButton">Home</Link>
+        <div className="Wrapper">
+          <div className="NavContainer">
+            <Link to="/Resume" className="NavButton">Résumé</Link>
             {" "}
-            <Link to="/Resume" class="NavButton">Résumé</Link>
+            <Link to="/Blog" className="NavButton">Blog</Link>
             {" "}
-            <Link to="/Blog" class="NavButton">Blog</Link>
-            {" "}
-            <Link to="/Food" class="NavButton">Food Recs</Link>
+            <Link to="/Food" className="NavButton">Food Recs</Link>
           </div>
 
-          <div class="Logo">
-            <p>Kyle Pu</p>
+          <div className="Logo">
+            <Link to="/Home" className="NavButton">Kyle Pu</Link>
           </div>
 
           <hr></hr>

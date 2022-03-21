@@ -7,13 +7,13 @@ function Resume() {
   let descriptions = ["Outline shit", "Do shit", "Look at shit"]; // More details
 
   return (
-    <div class="Container">
+    <div className="Container">
       {titles.map((title, index) => {
         return (
-          <div>
-            <p class="job-title">{title}</p>
-            <p class="job-times">{timelines[index]}</p>
-            <p class="job-description">{descriptions[index]}</p>
+          <div key={index}>
+            <p className="job-title">{title}</p>
+            <p className="job-times">{timelines[index]}</p>
+            <p className="job-description">{descriptions[index]}</p>
           </div>
         )
       })}

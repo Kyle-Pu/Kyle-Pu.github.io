@@ -16,7 +16,7 @@ hr{
     color:rgba(28, 116, 239, 0.996);
     font-family: Optima;
     font-weight:900;
-    font-size: 300%;
+    font-size: 150%;
     position: relative;
     padding-left: 10%;
     /*border: 2px solid orange;*/ /*FOR DEBUGGING*/
@@ -30,6 +30,7 @@ hr{
 .NavContainer{
     position: relative;
     padding-right: 10%;
+    top: 15px;
     float: right;
 }
 
