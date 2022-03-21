@@ -31,6 +31,7 @@
 
 .Question{
     display: inline-block;
+    text-decoration: underline;
 }
 
 .Question:hover{
