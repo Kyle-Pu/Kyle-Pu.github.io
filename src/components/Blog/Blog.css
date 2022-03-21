@@ -1,5 +1,5 @@
 .BPost{
-
+    position: relative;
 }
 
 .Title{
@@ -27,9 +27,21 @@
     display: inline;
 }
 
-/*These are for the contents of each blog post*/
-.BPost p{
+/* These are for the contents of each blog post */
+.BPost div{
     font-size: 20px;
     font-family: Optima;
     font-weight: 200;
+}
+
+/* Hyperlinks */
+.BPost div a{
+    color: blue;
+    text-decoration: underline;
+}
+
+/* Bullet points */
+ul li{
+    list-style-type: disc;
+    margin-left: 20px;
 }

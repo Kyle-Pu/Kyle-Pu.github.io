@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Blog.css"
-import blogposts from "../blogposts"
+import blogposts from "./blogposts"
 
 function Blog() {
   let titles = blogposts.map((bPost) => bPost.title)
