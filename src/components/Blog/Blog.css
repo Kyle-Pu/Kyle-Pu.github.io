@@ -1,0 +1,35 @@
+.BPost{
+
+}
+
+.Title{
+    font-size: 30px;
+    font-family: Optima;
+    font-weight: 500;
+    color: rgb(50, 110, 221)
+}
+
+.Date{
+    font-size: 25px;
+    font-family: Optima;
+    font-weight: 300;
+    font-style: italic;
+    color: rgb(50, 110, 221);
+    display: inline;
+}
+
+.Tag{
+    font-size: 25px;
+    font-family: Optima;
+    font-weight: 300;
+    font-style: italic;
+    color: rgb(50, 144, 221);
+    display: inline;
+}
+
+/*These are for the contents of each blog post*/
+.BPost p{
+    font-size: 20px;
+    font-family: Optima;
+    font-weight: 200;
+}
