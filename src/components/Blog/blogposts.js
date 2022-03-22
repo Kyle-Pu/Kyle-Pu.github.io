@@ -41,7 +41,7 @@ let blogposts = [
                 <br /><br />
                 Santa Monica Pier's ferris wheel was easy to spot from miles away, even through a bit of fog. It was easy to gauge our distance by seeing how much bigger it looked each time we checked. At $11 per ride, riding the ferris wheel was no cheap journey. But the beauty of the chill ocean breeze, bright light reflecting off the endless ocean waters, and the palm trees and high-rises of LA were a sight to see. "Ah, I really am in LA."
                 <br /><br />
-                UCLA is known for being close to the 3 B's: Beverly Hills, Bel-Air, and Brentwood (I honestly never heard of Brentwood before coming here. I had to search up "the 3 B's near UCLA" to find out what the third B was). Beverly Hills is just a 10-15 minute bus ride away from Westwood, our beloved college town. The Beverly Hills garden was quite underwhelming, featured in a garden smaller than the Botanical Gardens on campus. But Rodeo Drive lived up to its hype. The fancy glass buildings of designer stores, a golden Rolls Royce parked along the road, and fancily-dressed people walking all around made Beverly Hills what social media makes it out to be.
+                UCLA is known for being close to the 3 B's: Beverly Hills, Bel-Air, and Brentwood (I honestly never heard of Brentwood before coming here. I had to search up "the 3 B's near UCLA" to find out what the third B was). Beverly Hills is just a 10-15 minute bus ride away from Westwood, our beloved college town. The Beverly Gardens Park was quite underwhelming, featured in a garden smaller than the Botanical Gardens on campus. But Rodeo Drive lived up to its hype. The fancy glass buildings of designer stores, a golden Rolls Royce parked along the road, and fancily dressed people walking all around made Beverly Hills what social media makes it out to be.
                 <figure>
                     <img src={require("./BImages/rodeo_drive.jpeg")} alt="Red Life is Beautiful cursive sign" />
                     <figcaption>Life is Beautiful sign on Rodeo Drive</figcaption>
@@ -59,7 +59,7 @@ let blogposts = [
                 <br /><br />
                 While we were riding around the back of Pauley Pavilion, we noticed a rack of LA Metro Bikes sitting near the entrance to Luskin. At just $3 per hour, they're a great (and much cheaper) alternative to scooters. So, we took them out for a spin.
                 <br></br>
-                One thing that won't stop amazing me about UCLA's campus is how many hidden spots litter campus. A couple highlights of our ride include a cafe-style seating area behind Anderson and the Executive Education building to a peaceful and green downhill slope from behind YRL (the Young Research Library) to  the edge of campus bordering the soccer field across Fowler.
+                One thing that won't stop amazing me about UCLA's campus is how many hidden spots litter campus. A couple highlights of our ride include a cafe-style seating area behind Anderson and the Executive Education building to a peaceful and green downhill slope from behind YRL (the Young Research Library) to the edge of campus bordering the soccer field across Fowler.
                 <br /><br />
                 I love biking. LA Metro Bikes will see my business again. 'Till Spring Quarter!
             </div>
