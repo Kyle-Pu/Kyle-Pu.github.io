@@ -17,7 +17,7 @@ function Blog() {
   }
 
   blogposts.sort((a, b) => {
-    return (a.encoding > b.encoding) ? -1 : ((a.encoding == b.encoding) ? 0 : 1); // -1 means blogpost a shows up at a lower index (before) blogpost b if and only if a is newer. 0 == equal, we don't care. 1 == a is older so it should go later down in the list
+    return (a.encoding > b.encoding) ? -1 : ((a.encoding === b.encoding) ? 0 : 1); // -1 means blogpost a shows up at a lower index (before) blogpost b if and only if a is newer. 0 == equal, we don't care. 1 == a is older so it should go later down in the list
   })
 
   let titles = blogposts.map((bPost) => bPost.title)
