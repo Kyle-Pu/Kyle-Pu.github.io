@@ -63,9 +63,10 @@ ul li{
     padding-left: 20px;
 }
 
-figcaption{
+figure figcaption{
     font-family: Optima;
     font-style: italic;
+    font-size: 20px;
     color:rgb(73, 141, 197);
     caption-side: bottom;
     text-align: center;
