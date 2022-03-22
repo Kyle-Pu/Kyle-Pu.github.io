@@ -45,3 +45,27 @@ ul li{
     list-style-type: disc;
     margin-left: 20px;
 }
+
+.BPost img{
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    border-radius: 10%;
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
+
+figcaption{
+    font-family: Optima;
+    font-style: italic;
+    color:rgb(73, 141, 197);
+    caption-side: bottom;
+    text-align: center;
+    padding: 3px;
+}
