@@ -13,6 +13,8 @@ import {
 } from "react-router-dom";
 
 function App() {
+  document.title = "Kyle Pu"
+
   return (
     <div className="website">
       <BrowserRouter>
