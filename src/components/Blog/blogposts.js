@@ -8,7 +8,7 @@ let blogposts = [
         content:
             <div>
                 <figure className="right">
-                    <img src={require("./BImages/exec_edu_building.jpeg")} />
+                    <img src={require("./BImages/exec_edu_building.jpeg")} alt="Kyle Pu in a lecture room in UCLA's Executive Education Building"/>
                     <figcaption>Lecturing my imaginary students</figcaption>
                 </figure>
                 Winter 2022 is officially over! It's been a fun quarter seeing everyone get active on campus again.
@@ -32,7 +32,7 @@ let blogposts = [
         content:
             <div>
                 <figure className="right">
-                    <img src={require("./BImages/santa_monica_pier.jpeg")} />
+                    <img src={require("./BImages/santa_monica_pier.jpeg")} alt="Pacific Park entrance at Santa Monica Pier"/>
                     <figcaption>Santa Monica Pier</figcaption>
                 </figure>
                 What's the best part of going to school in LA? Going outside! From Venice Beach to Santa Monica and Beverly Hills, beautiful destinations are within miles of our classrooms.
@@ -43,7 +43,7 @@ let blogposts = [
                 <br /><br />
                 UCLA is known for being close to the 3 B's: Beverly Hills, Bel-Air, and Brentwood (I honestly never heard of Brentwood before coming here. I had to search up "the 3 B's near UCLA" to find out what the third B was). Beverly Hills is just a 10-15 minute bus ride away from Westwood, our beloved college town. The Beverly Hills garden was quite underwhelming, featured in a garden smaller than the Botanical Gardens on campus. But Rodeo Drive lived up to its hype. The fancy glass buildings of designer stores, a golden Rolls Royce parked along the road, and fancily-dressed people walking all around made Beverly Hills what social media makes it out to be.
                 <figure>
-                    <img src={require("./BImages/rodeo_drive.jpeg")} />
+                    <img src={require("./BImages/rodeo_drive.jpeg")} alt="Red Life is Beautiful cursive sign" />
                     <figcaption>Life is Beautiful sign on Rodeo Drive</figcaption>
                 </figure>
             </div>

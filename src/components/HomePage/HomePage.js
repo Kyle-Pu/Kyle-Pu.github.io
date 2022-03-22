@@ -5,7 +5,7 @@ function HomePage() {
   return (
     <div className="Container">
       <div className="Picture">
-        <img className="pfp" src={require("../../imgs/pfp.png")} alt="Profile picture" />
+        <img className="pfp" src={require("../../imgs/pfp.png")} alt="Profile headshot" />
         <p className="EasterEgg">Off Rodeo Drive in Beverly Hills! No, I don't live there. Yes, I wish I lived there.</p>
       </div>
       <div className="Caption">

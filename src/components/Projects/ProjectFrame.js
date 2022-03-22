@@ -12,12 +12,12 @@ function ProjectFrame(props) {
     return (
         <figure>
             <br/>
-            <img className="Thumbnail" src={props.imgPath} />
-            <figcaption><b>{props.title}</b> {props.caption} {props.award != "" && <i>{props.award}</i>}</figcaption>
+            <img className="Thumbnail" src={props.imgPath} alt={props.alt}/>
+            <figcaption><b>{props.title}</b> {props.caption} {props.award !== "" && <i>{props.award}</i>}</figcaption>
             <div className="LinksContainer">
                 {linkTitles.map((title, index) => {
                     let sep = "|";
-                    if(index == linkPaths.length - 1){
+                    if(index === linkPaths.length - 1){
                         sep = ""; // Don't put a separator after the last link
                     }
                     return <a href={linkPaths[index]} target="_blank"> {title} {sep}</a>
