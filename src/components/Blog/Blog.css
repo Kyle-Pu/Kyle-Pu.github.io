@@ -55,10 +55,12 @@ ul li{
 
 .left{
     float: left;
+    padding-right: 20px;
 }
 
 .right{
     float: right;
+    padding-left: 20px;
 }
 
 figcaption{

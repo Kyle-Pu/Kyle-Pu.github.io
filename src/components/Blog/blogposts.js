@@ -7,6 +7,10 @@ let blogposts = [
         tags: ["CS", "Classes"],
         content:
             <div>
+                <figure className="right">
+                    <img src={require("./BImages/exec_edu_building.jpeg")} />
+                    <figcaption>Lecturing my imaginary students</figcaption>
+                </figure>
                 Winter 2022 is officially over! It's been a fun quarter seeing everyone get active on campus again.
                 <br /><br />
                 My thoughts on classes this quarter:
