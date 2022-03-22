@@ -19,8 +19,6 @@ function App() {
       <BrowserRouter>
         <div className="Wrapper">
           <div className="NavContainer">
-            <Link to="/Resume" className="NavButton">Résumé</Link>
-            {" "}
             <Link to="/Blog" className="NavButton">Blog</Link>
           </div>
 
