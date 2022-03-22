@@ -27,7 +27,7 @@ let blogposts = [
         tags: ["LA", "Travel", "Adventure"],
         content:
             <div>
-                <figure class="right">
+                <figure className="right">
                     <img src={require("./BImages/santa_monica_pier.jpeg")} />
                     <figcaption>Santa Monica Pier</figcaption>
                 </figure>
