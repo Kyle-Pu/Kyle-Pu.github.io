@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+nav .navbar-nav li a {
+    color:rgb(126, 157, 184)
+}
+
+hr{
+    background-color:lightblue;
+    color:lightblue;
+    height: 2px;
+}
+
+.Logo{
+    color:rgba(28, 116, 239, 0.996);
+    font-family: Optima;
+    font-weight:900;
+    font-size: 150%;
+    position: relative;
+    padding-left: 10%;
+    /*border: 2px solid orange;*/ /*FOR DEBUGGING*/
+    width: 30%;
+}
+
+.Wrapper{
+    overflow: hidden;
+}
+
+.NavContainer{
+    position: relative;
+    padding-right: 10%;
+    top: 15px;
+    float: right;
+}
+
+.NavButton{
+    font-family: Optima;
+    position: relative;
+    font-size: 250%;
+    font-weight: 600;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: rgb(55, 88, 235);
+    top: 8px;
+}
+
+.NavButton:hover{
+    color: lightskyblue;
+}

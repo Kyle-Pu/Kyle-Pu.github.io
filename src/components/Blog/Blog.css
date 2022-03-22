@@ -1,0 +1,74 @@
+.BPost{
+    position: relative;
+}
+
+.Title{
+    font-size: 30px;
+    font-family: Optima;
+    font-weight: 500;
+    color: rgb(50, 110, 221)
+}
+
+.Date{
+    font-size: 25px;
+    font-family: Optima;
+    font-weight: 300;
+    font-style: italic;
+    color: rgb(50, 110, 221);
+    display: inline;
+}
+
+.Tag{
+    font-size: 25px;
+    font-family: Optima;
+    font-weight: 300;
+    font-style: italic;
+    color: rgb(50, 144, 221);
+    display: inline;
+}
+
+/* These are for the contents of each blog post */
+.BPost div{
+    font-size: 20px;
+    font-family: Optima;
+    font-weight: 200;
+}
+
+/* Hyperlinks */
+.BPost div a{
+    color: blue;
+    text-decoration: underline;
+}
+
+/* Bullet points */
+ul li{
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+.BPost img{
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    border-radius: 10%;
+}
+
+.left{
+    float: left;
+    padding-right: 20px;
+}
+
+.right{
+    float: right;
+    padding-left: 20px;
+}
+
+figure figcaption{
+    font-family: Optima;
+    font-style: italic;
+    font-size: 20px;
+    color:rgb(73, 141, 197);
+    caption-side: bottom;
+    text-align: center;
+    padding: 3px;
+}

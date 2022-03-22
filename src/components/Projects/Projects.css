@@ -1,0 +1,23 @@
+.Thumbnail{
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+}
+
+figure figcaption{
+    font-size: 25px;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-style: normal;
+}
+
+.LinksContainer{
+    text-align: center;
+    font-family: Optima;
+    font-size: 25px;
+    color:rgb(10, 115, 201);
+}
+
+a:hover{
+    color:rgb(107, 180, 240);
+}
