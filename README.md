@@ -1,10 +1,6 @@
 # Kyle Style
 
-Kyle Pu's personal website!
-
-## Launching/Viewing
-
-For now, clone this repository and run `npm start` in the project directory.
+Kyle Pu's [personal website](https://kyle-pu.github.io/)!
 
 ## Resources and References
 
