@@ -12,7 +12,7 @@ function Blog() {
     <div className="Container">
       {titles.map((title, index) => {
         return (
-          <div className="BPost" key="index">
+          <div className="BPost" key={index}>
             <h1 className="Title">{title}</h1>
             <h2 className="Date">{dates[index]}</h2>
             <h2 className="Tag"> #{tags[index].join(" #")}</h2>
