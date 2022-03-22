@@ -29,19 +29,24 @@
     color: rgb(54, 136, 243);
 }
 
-.Question{
-    display: inline-block;
+.EasterEgg{
+    display: none;
+}
+
+.pfp:hover + .EasterEgg{
+    display: block;
+    font-family: Optima;
+    text-align: center;
+    color: rgb(54, 136, 243);
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* Links */
+p a{
     text-decoration: underline;
 }
 
-.Question:hover{
-    color: lightblue;
-}
-
-.Answer{
-    visibility: hidden;
-}
-
-.Question:hover + .Answer{
-    visibility: visible;
+p a:hover{
+    color:rgb(149, 189, 241);
 }
