@@ -2,7 +2,7 @@ import React from 'react'
 import "./Resume.css"
 
 function Resume() {
-  let titles = ["Coming soon!"]; // Titles of work experiences
+  let titles = ["You found me! Please refer to the links on my home page for now. If you'd like a PDF resume, send me a message on LinkedIn!"]; // Titles of work experiences
   let timelines = []; // Times of each activity
   let descriptions = [""]; // More details
 
