@@ -68,12 +68,17 @@ hr{
         font-size: 20px;
         line-height: 25px;
     }
+    .Caption{
+        position: relative;
+        width: 130%;
+        left: -25%;
+    }
     .Thumbnail{
         max-width: 400px;
         max-height: 500px;
         width: auto;
         height: auto;
         position: relative;
-        left: -78px;
+        right: 30%;
     }
 }
