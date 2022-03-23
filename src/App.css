@@ -44,3 +44,36 @@ hr{
 .NavButton:hover{
     color: lightskyblue;
 }
+
+@viewport {
+    width: device-width ;
+    zoom: 1.0 ;
+}
+
+@media screen and (max-width: 600px){
+    .Logo{
+        position: relative;
+        top: 10px;
+        font-size: 130%;
+    }
+    .NavButton{
+        position: relative;
+        top: 5px;
+        font-size: 100%;
+    }
+    .Caption p, h1, h2{ /* This Caption class is for the homepage captions */
+        line-height: 30px;
+    }
+    .Caption, .LinksContainer a{ /* This Caption class is for the project captions. I know, confusing. Bad naming choice lmao */
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .Thumbnail{
+        max-width: 400px;
+        max-height: 500px;
+        width: auto;
+        height: auto;
+        position: relative;
+        left: -78px;
+    }
+}
