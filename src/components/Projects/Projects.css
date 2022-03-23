@@ -1,6 +1,8 @@
+figure{
+    text-align: center;
+}
+
 .Thumbnail{
-    margin-left: auto;
-    margin-right: auto;
     height: 500px;
 }
 
@@ -10,15 +12,17 @@
     padding-left: 10%;
     padding-right: 10%;
     font-style: normal;
+    line-height: 38px;
 }
 
-.LinksContainer{
+.LinksContainer, .LinksContainer a{
     text-align: center;
     font-family: Optima;
     font-size: 25px;
     color:rgb(10, 115, 201);
+    text-decoration: none;
 }
 
-a:hover{
+.LinksContainer a:hover{
     color:rgb(107, 180, 240);
 }

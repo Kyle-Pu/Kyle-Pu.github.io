@@ -1,3 +1,7 @@
+figure{
+    position: relative;
+}
+
 .BPost{
     position: relative;
 }
@@ -55,12 +59,10 @@ ul li{
 
 .left{
     float: left;
-    padding-right: 20px;
 }
 
 .right{
     float: right;
-    padding-left: 20px;
 }
 
 figure figcaption{
@@ -70,5 +72,12 @@ figure figcaption{
     color:rgb(73, 141, 197);
     caption-side: bottom;
     text-align: center;
-    padding: 3px;
+}
+
+.Content{
+    line-height: 32px;
+}
+
+h1{
+    line-height: 10px;
 }

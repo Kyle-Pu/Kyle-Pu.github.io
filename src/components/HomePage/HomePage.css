@@ -10,9 +10,12 @@
     left: 50%;
     transform: translate(-50%, -50%);
     overflow: hidden; /*Hide what falls outside of the div*/
-    width: 380px;
-    height: auto;
+    width: 380px; /* Only let the div grow in height when we hover over the image (by constraining the width) */
     border-radius: 20%;
+}
+
+.pfp{
+    width: 380px;
 }
 
 .Caption{
@@ -27,15 +30,17 @@
     font-family: Optima;
     font-size: 30px;
     color: rgb(54, 136, 243);
+    line-height: 12px;
 }
 
 .EasterEgg{
     display: none;
+    position: relative;
+    top: -20px;
 }
 
 .pfp:hover + .EasterEgg{
     display: block;
-    font-family: Optima;
     text-align: center;
     color: rgb(54, 136, 243);
     padding-left: 20px;
@@ -43,8 +48,9 @@
 }
 
 /* Links */
-p a{
+p a, p a:visited{
     text-decoration: underline;
+    color: rgb(54, 136, 243);
 }
 
 p a:hover{

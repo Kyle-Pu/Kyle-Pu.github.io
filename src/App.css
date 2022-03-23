@@ -1,20 +1,16 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-nav .navbar-nav li a {
-    color:rgb(126, 157, 184)
+.website{
+    font-family: Optima;
 }
 
 hr{
     background-color:lightblue;
     color:lightblue;
-    height: 2px;
+    border-color: lightblue;
+    border-top: 0px; /* Get rid of default top border that disrupts color flow */
 }
 
 .Logo{
     color:rgba(28, 116, 239, 0.996);
-    font-family: Optima;
     font-weight:900;
     font-size: 150%;
     position: relative;
@@ -35,7 +31,6 @@ hr{
 }
 
 .NavButton{
-    font-family: Optima;
     position: relative;
     font-size: 250%;
     font-weight: 600;
@@ -43,6 +38,7 @@ hr{
     padding-right: 30px;
     color: rgb(55, 88, 235);
     top: 8px;
+    text-decoration: none;
 }
 
 .NavButton:hover{

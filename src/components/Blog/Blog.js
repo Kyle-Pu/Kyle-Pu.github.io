@@ -5,13 +5,13 @@ import blogposts from "./blogposts"
 function Blog() {
   // Sort blogposts by date of publication (descending order)
   let bpDate = []; // Dates as strings
-  for(let k = 0; k < blogposts.length; k++){
+  for (let k = 0; k < blogposts.length; k++) {
     bpDate.push(blogposts[k]["date"]);
     let parsedDate = bpDate[k].split("/").map((num) => parseInt(num));
     let month = parsedDate[0];
     let day = parsedDate[1];
     let year = parsedDate[2];
-    let encoding = day + month*31 + year*12*31; // A numerical value to represent each date. One to one mapping of date to encoding (I think lol).
+    let encoding = day + month * 31 + year * 12 * 31; // A numerical value to represent each date. One to one mapping of date to encoding (I think lol).
     //console.log(encoding);
     blogposts[k]["encoding"] = encoding; // Associate each encoding with its respective blog post
   }
@@ -24,7 +24,7 @@ function Blog() {
   let dates = blogposts.map((bPost) => bPost.date)
   let tags = blogposts.map((bPost) => bPost.tags)
   let content = blogposts.map((bPost) => bPost.content)
-  
+
   return (
     <div className="Container">
       {titles.map((title, index) => {
@@ -33,7 +33,7 @@ function Blog() {
             <h1 className="Title">{title}</h1>
             <h2 className="Date">{dates[index]}</h2>
             <h2 className="Tag"> #{tags[index].join(" #")}</h2>
-            {content[index]}
+            <div className="Content">{content[index]}</div>
             <hr></hr>
           </div>
         )

@@ -20,7 +20,6 @@ let blogposts = [
                     <li>Life Science 7B (Genetics, Evolution, and Ecology): Topics are very broad, a lot of reading. Ecology was surprisingly interesting. You learn a bit about species interactions and how/why environments change.</li>
                     <li>Stats 100A (Intro to Probability): Fun class based on poker.</li>
                 </ul>
-                <br />
                 These courses count towards a CS degree?!? Yes! Music is a GE and LS7B counts towards my <a href="https://www.seasoasa.ucla.edu/undergraduate-technical-breadth-area-tba/">tech breadth</a>.
             </div>
     },
