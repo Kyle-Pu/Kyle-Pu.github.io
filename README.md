@@ -9,3 +9,4 @@ Kyle Pu's [personal website](https://kyle-pu.github.io/)!
 3) Cropping [images to circles](https://medium.com/@biancapower/how-to-make-a-rectangle-image-a-circle-in-css-2f392bc9abd3)
 4) [This question](https://stackoverflow.com/questions/11499268/sort-two-arrays-the-same-way) helped me sort blogposts by date
 5) GitHub Pages didn't find the file when navigating directly to a page on the site via URL. [This](https://stackoverflow.com/questions/70542137/error-404-when-using-github-when-i-reload-the-page) explains why.
+6) For [testing on mobile](https://javascript.plainenglish.io/how-to-view-your-react-app-on-a-mobile-device-697e248afddd)
