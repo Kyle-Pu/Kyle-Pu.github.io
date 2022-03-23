@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.e9963a27.css",
+    "main.css": "/static/css/main.61d36091.css",
     "main.js": "/static/js/main.f10e75ea.js",
     "static/js/787.07aee4ee.chunk.js": "/static/js/787.07aee4ee.chunk.js",
     "static/media/rodeo_drive.jpeg": "/static/media/rodeo_drive.4769d2ddbd466eae1648.jpeg",
@@ -11,12 +11,12 @@
     "static/media/nutrition.png": "/static/media/nutrition.1dee6b2ca9c898c8a2fc.png",
     "static/media/exec_edu_building.jpeg": "/static/media/exec_edu_building.c3f938806827a4574d3d.jpeg",
     "index.html": "/index.html",
-    "main.e9963a27.css.map": "/static/css/main.e9963a27.css.map",
+    "main.61d36091.css.map": "/static/css/main.61d36091.css.map",
     "main.f10e75ea.js.map": "/static/js/main.f10e75ea.js.map",
     "787.07aee4ee.chunk.js.map": "/static/js/787.07aee4ee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9963a27.css",
+    "static/css/main.61d36091.css",
     "static/js/main.f10e75ea.js"
   ]
 }
