@@ -6,7 +6,7 @@ import Blog from "./components/Blog/Blog"
 import "./App.css"
 
 import {
-  BrowserRouter,
+  HashRouter,
   Routes,
   Route,
   Link,
@@ -18,7 +18,7 @@ function App() {
   return (
     <div className="website">
       <meta name="viewport" content="width=device-width, initial-scale=1"/>
-      <BrowserRouter basename={process.env.PUBLIC_URL}>
+      <HashRouter>
         <div className="Wrapper">
           <div className="NavContainer">
             <Link to="/Projects" className="NavButton">Projects</Link>
@@ -34,11 +34,11 @@ function App() {
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/Home" element={<HomePage />} />
-          <Route path="Resume" element={<Resume />} />
-          <Route path="Projects" element={<Projects />} />
-          <Route path="Blog" element={<Blog />} />
+          <Route path="/Resume" element={<Resume />} />
+          <Route path="/Projects" element={<Projects />} />
+          <Route path="/Blog" element={<Blog />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }
