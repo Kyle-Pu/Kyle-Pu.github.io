@@ -17,6 +17,7 @@ function App() {
 
   return (
     <div className="website">
+      <meta name="viewport" content="width=device-width, initial-scale=1"/>
       <BrowserRouter>
         <div className="Wrapper">
           <div className="NavContainer">

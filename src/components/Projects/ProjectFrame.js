@@ -13,7 +13,7 @@ function ProjectFrame(props) {
         <figure>
             <br/>
             <img className="Thumbnail" src={props.imgPath} alt={props.alt}/>
-            <figcaption><b>{props.title}</b> {props.caption} {props.award !== "" && <i>{props.award}</i>}</figcaption>
+            <figcaption className="Caption"><b>{props.title}</b> {props.caption} {props.award !== "" && <i>{props.award}</i>}</figcaption>
             <div className="LinksContainer">
                 {linkTitles.map((title, index) => {
                     let sep = "|";
