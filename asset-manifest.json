@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b6bfb2c0.css",
-    "main.js": "/static/js/main.f10e75ea.js",
+    "main.css": "/static/css/main.02a0093e.css",
+    "main.js": "/static/js/main.2dae2513.js",
     "static/js/787.07aee4ee.chunk.js": "/static/js/787.07aee4ee.chunk.js",
     "static/media/rodeo_drive.jpeg": "/static/media/rodeo_drive.4769d2ddbd466eae1648.jpeg",
     "static/media/santa_monica_pier.jpeg": "/static/media/santa_monica_pier.bc8fb814aed6cd726fc9.jpeg",
@@ -11,12 +11,12 @@
     "static/media/nutrition.png": "/static/media/nutrition.1dee6b2ca9c898c8a2fc.png",
     "static/media/exec_edu_building.jpeg": "/static/media/exec_edu_building.c3f938806827a4574d3d.jpeg",
     "index.html": "/index.html",
-    "main.b6bfb2c0.css.map": "/static/css/main.b6bfb2c0.css.map",
-    "main.f10e75ea.js.map": "/static/js/main.f10e75ea.js.map",
+    "main.02a0093e.css.map": "/static/css/main.02a0093e.css.map",
+    "main.2dae2513.js.map": "/static/js/main.2dae2513.js.map",
     "787.07aee4ee.chunk.js.map": "/static/js/787.07aee4ee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6bfb2c0.css",
-    "static/js/main.f10e75ea.js"
+    "static/css/main.02a0093e.css",
+    "static/js/main.2dae2513.js"
   ]
 }
