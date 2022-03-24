@@ -37,8 +37,12 @@ function Blog() {
     showFilters === "ShowDropdown" ? setShowFilters("") : setShowFilters("ShowDropdown"); // Toggle dropdown visibility. Show dropdown when "Filter" button is clicked. Hide when clicked again
   }
 
-  const handleFilter = () => {
-    
+  const handleFilter = (val) => {
+    if(filter === val){
+      setFilter("") // Toggle filter off if clicked again
+    }else{
+      setFilter(val);
+    }
   }
 
   return (
@@ -46,20 +50,24 @@ function Blog() {
       <div className="TagsContainer">
         <button onClick={handleClick} className="DropdownButton">Filter</button>
         <div className={"Dropdown" + " " + showFilters}>
-          {tagFilters.map((t) => <p className="tagFilter" onClick={handleFilter} value="{t}">#{t}</p>)}
+          {tagFilters.map((t) => <p className="tagFilter" onClick={() => handleFilter(t)} value="{t}">#{t}</p>)}
         </div>
+        {filter !== "" ? <txt className="FilterStatus">#{filter}</txt> : ""}
       </div>
 
       {titles.map((title, index) => {
-        return (
-          <div className="BPost" key={index}>
-            <h1 className="Title">{title}</h1>
-            <h2 className="Date">{dates[index]}</h2>
-            <h2 className="Tag"> #{tags[index].join(" #")}</h2>
-            <div className="Content">{content[index]}</div>
-            <hr></hr>
-          </div>
-        )
+        // Only display blog post if it matches the current filter, if any
+        if((filter === "") || tags[index].includes(filter)){
+          return (
+            <div className="BPost" key={index}>
+              <h1 className="Title">{title}</h1>
+              <h2 className="Date">{dates[index]}</h2>
+              <h2 className="Tag"> #{tags[index].join(" #")}</h2>
+              <div className="Content">{content[index]}</div>
+              <hr></hr>
+            </div>
+          )
+        }
       })}
     </div>
   );
