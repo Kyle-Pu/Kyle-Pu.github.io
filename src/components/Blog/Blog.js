@@ -1,8 +1,11 @@
-import React from 'react'
+import React, { useState } from 'react'
 import "./Blog.css"
 import blogposts from "./blogposts"
 
 function Blog() {
+  let [showFilters, setShowFilters] = useState("");
+  let [filter, setFilter] = useState("");
+
   // Sort blogposts by date of publication (descending order)
   let bpDate = []; // Dates as strings
   for (let k = 0; k < blogposts.length; k++) {
@@ -25,8 +28,28 @@ function Blog() {
   let tags = blogposts.map((bPost) => bPost.tags)
   let content = blogposts.map((bPost) => bPost.content)
 
+  // Get tags data to enable filtering by tags
+  const allTags = new Set()
+  tags.forEach((tagsList) => tagsList.forEach((t) => allTags.add(t))) // Add all tags to set
+  const tagFilters = Array.from(allTags)
+
+  const handleClick = () => {
+    showFilters === "ShowDropdown" ? setShowFilters("") : setShowFilters("ShowDropdown"); // Toggle dropdown visibility. Show dropdown when "Filter" button is clicked. Hide when clicked again
+  }
+
+  const handleFilter = () => {
+    
+  }
+
   return (
     <div className="Container">
+      <div className="TagsContainer">
+        <button onClick={handleClick} className="DropdownButton">Filter</button>
+        <div className={"Dropdown" + " " + showFilters}>
+          {tagFilters.map((t) => <p className="tagFilter" onClick={handleFilter} value="{t}">#{t}</p>)}
+        </div>
+      </div>
+
       {titles.map((title, index) => {
         return (
           <div className="BPost" key={index}>

@@ -81,3 +81,47 @@ figure figcaption{
 h1{
     line-height: 10px;
 }
+
+.DropdownButton{
+    cursor: pointer;
+    background-color: rgb(134, 192, 240);
+    border: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Optima;
+    padding: 10px;
+}
+
+.DropdownButton:hover{
+    background-color: rgb(12, 46, 170);    
+}
+
+.TagsContainer{
+    position: relative;
+    display: inline-block;
+}
+
+.Dropdown{
+    display: none;
+    position: absolute;
+    background-color: rgb(134, 192, 240);
+    color: white;
+    z-index: 1;
+}
+
+.Dropdown p{
+    display: block;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 0; /* Make elements hug one another vertically */
+    font-size: 20px;
+}
+
+.Dropdown p:hover{
+    background-color: rgb(12, 46, 170);
+}
+
+.ShowDropdown{
+    display:block;
+}
