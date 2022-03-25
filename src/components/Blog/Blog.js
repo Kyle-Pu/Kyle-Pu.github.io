@@ -40,13 +40,17 @@ function Blog() {
   const handleFilter = (val) => {
     // Normal tags
     if (filter.includes(val)) {
-      let newFilter = filter.splice(filter.indexOf(val), 1) // Toggle specific filter off if clicked again
-      setFilter(newFilter);
+      let indRemove = filter.indexOf(val) // Toggle specific filter off if clicked again
+      setFilter(filter.filter((t, ind) => {
+        if(ind !== indRemove){
+          return t
+        }
+      }));
     } else {
       setFilter([...filter, val]) // Add selected filter to filters list if not already there
     }
 
-    // Check for clear all
+    // Check for clear all. Note: this check MUST come AFTER the check for normal tags to avoid adding a "Clear All" filter
     if (val === "Clear All") {
       setFilter([])
     }
