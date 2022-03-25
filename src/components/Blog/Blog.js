@@ -4,7 +4,7 @@ import blogposts from "./blogposts"
 
 function Blog() {
   let [showFilters, setShowFilters] = useState("");
-  let [filter, setFilter] = useState("");
+  let [filter, setFilter] = useState([]);
 
   // Sort blogposts by date of publication (descending order)
   let bpDate = []; // Dates as strings
@@ -38,26 +38,36 @@ function Blog() {
   }
 
   const handleFilter = (val) => {
-    if(filter === val){
-      setFilter("") // Toggle filter off if clicked again
-    }else{
-      setFilter(val);
+    // Normal tags
+    if (filter.includes(val)) {
+      let newFilter = filter.splice(filter.indexOf(val), 1) // Toggle specific filter off if clicked again
+      setFilter(newFilter);
+    } else {
+      setFilter([...filter, val]) // Add selected filter to filters list if not already there
     }
+
+    // Check for clear all
+    if (val === "Clear All") {
+      setFilter([])
+    }
+
+    setShowFilters(""); // Make filters list disappear if a filter is clicked (most common scenario is user selects just one tag)
   }
 
   return (
     <div className="Container">
       <div className="TagsContainer">
-        <button onClick={handleClick} className="DropdownButton">Filter</button>
+        <button onClick={handleClick} className="DropdownButton">{showFilters === "" ? <txt>Filter</txt> : <txt>Close</txt>}</button>
         <div className={"Dropdown" + " " + showFilters}>
           {tagFilters.map((t) => <p className="tagFilter" onClick={() => handleFilter(t)} value="{t}">#{t}</p>)}
+          <p className="tagFilter" style={{ "border": "1px solid blue" }} value="Clear All" onClick={() => handleFilter("Clear All")}>Clear All</p>
         </div>
-        {filter !== "" ? <txt className="FilterStatus">#{filter}</txt> : ""}
+        {filter.length !== 0 ? filter.map((f) => <txt className="FilterStatus">#{f}</txt>) : ""}
       </div>
 
       {titles.map((title, index) => {
-        // Only display blog post if it matches the current filter, if any
-        if((filter === "") || tags[index].includes(filter)){
+        // Only display blog post if it matches the current filter(s), if any
+        if ((filter.length == 0) || filter.every(t => tags[index].includes(t))) {
           return (
             <div className="BPost" key={index}>
               <h1 className="Title">{title}</h1>
