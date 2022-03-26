@@ -62,7 +62,8 @@ hr{
         font-size: 100%;
     }
     .Caption p, h1, h2{ /* This Caption class is for the homepage captions */
-        line-height: 30px;
+        line-height: 10px;
+        font-size: 20px;
     }
     .Caption, .LinksContainer a{ /* This Caption class is for the project captions. I know, confusing. Bad naming choice lmao */
         font-size: 20px;
