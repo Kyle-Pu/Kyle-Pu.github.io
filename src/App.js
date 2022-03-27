@@ -17,7 +17,9 @@ function App() {
 
   return (
     <div className="website">
-      <meta name="viewport" content="width=device-width, initial-scale=1"/>
+      <link rel="apple-touch-icon" href="./imgs/apple-touch-icon.png" />
+
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
       <HashRouter>
         <div className="Wrapper">
           <div className="NavContainer">
