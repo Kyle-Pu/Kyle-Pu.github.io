@@ -65,6 +65,9 @@ hr{
         line-height: 10px;
         font-size: 20px;
     }
+    h1, h2{
+        line-height: 10px;
+    }
     .Caption, .LinksContainer a{ /* This Caption class is for the project captions. I know, confusing. Bad naming choice lmao */
         font-size: 20px;
         line-height: 25px;
