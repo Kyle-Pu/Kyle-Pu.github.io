@@ -56,3 +56,7 @@ p a, p a:visited{
 p a:hover{
     color:rgb(149, 189, 241);
 }
+
+.IconLink{
+    height: 5vw;
+}
