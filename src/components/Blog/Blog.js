@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import "./Blog.css"
 import blogposts from "./blogposts"
 
@@ -42,7 +42,7 @@ function Blog() {
     if (filter.includes(val)) {
       let indRemove = filter.indexOf(val) // Toggle specific filter off if clicked again
       setFilter(filter.filter((t, ind) => {
-        if(ind !== indRemove){
+        if (ind !== indRemove) {
           return t
         }
       }));
@@ -57,6 +57,18 @@ function Blog() {
 
     setShowFilters(""); // Make filters list disappear if a filter is clicked (most common scenario is user selects just one tag)
   }
+
+  useEffect(() => {
+    const script = document.createElement("script")
+    script.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7288742389789708"
+    script.async = true
+    script.crossOrigin = "anonymous"
+    document.head.appendChild(script)
+
+    return () => {
+      document.head.removeChild(script)
+    }
+  }, [])
 
   return (
     <div className="Container">
