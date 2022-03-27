@@ -6,7 +6,7 @@
 .Picture{
     position: absolute;
     margin: 0 auto;
-    top: 40%;
+    top: 35%;
     left: 50%;
     transform: translate(-50%, -50%);
     overflow: hidden; /*Hide what falls outside of the div*/
@@ -20,7 +20,7 @@
 
 .Caption{
     position: absolute;
-    top: 75%;
+    top: 70%;
     left: 0%;
     right: 0%;
     text-align: center;
