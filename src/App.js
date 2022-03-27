@@ -4,7 +4,6 @@ import Resume from "./components/Resume/Resume"
 import Projects from "./components/Projects/Projects"
 import Blog from "./components/Blog/Blog"
 import "./App.css"
-import { Helmet } from 'react-helmet'
 
 import {
   HashRouter,
@@ -18,10 +17,6 @@ function App() {
 
   return (
     <div className="website">
-      <Helmet>
-        <link rel="apple-touch-icon" href="../public/apple-touch-icon.png" />
-      </Helmet>
-
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <HashRouter>
         <div className="Wrapper">
