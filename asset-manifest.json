@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.967a4374.css",
-    "main.js": "/static/js/main.294ee869.js",
+    "main.css": "/static/css/main.4f079fe1.css",
+    "main.js": "/static/js/main.2decb685.js",
     "static/js/787.07aee4ee.chunk.js": "/static/js/787.07aee4ee.chunk.js",
     "static/media/rodeo_drive.jpeg": "/static/media/rodeo_drive.4769d2ddbd466eae1648.jpeg",
     "static/media/santa_monica_pier.jpeg": "/static/media/santa_monica_pier.bc8fb814aed6cd726fc9.jpeg",
     "static/media/greenride.png": "/static/media/greenride.5da140e5adbdc1c31c6d.png",
     "static/media/pfp.png": "/static/media/pfp.68536470b3f26edf2fd7.png",
+    "static/media/63222-google-scholar-doctor-science-university-philosophy-computer.png": "/static/media/63222-google-scholar-doctor-science-university-philosophy-computer.0b4c36e80a7425afa9d9.png",
     "static/media/selector-safari.png": "/static/media/selector-safari.1e41c5d26ea26714f59b.png",
     "static/media/nutrition.png": "/static/media/nutrition.1dee6b2ca9c898c8a2fc.png",
     "static/media/exec_edu_building.jpeg": "/static/media/exec_edu_building.c3f938806827a4574d3d.jpeg",
+    "static/media/GitHub-Logo.png": "/static/media/GitHub-Logo.f26fc6f45440f7855185.png",
     "index.html": "/index.html",
-    "main.967a4374.css.map": "/static/css/main.967a4374.css.map",
-    "main.294ee869.js.map": "/static/js/main.294ee869.js.map",
+    "main.4f079fe1.css.map": "/static/css/main.4f079fe1.css.map",
+    "main.2decb685.js.map": "/static/js/main.2decb685.js.map",
     "787.07aee4ee.chunk.js.map": "/static/js/787.07aee4ee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.967a4374.css",
-    "static/js/main.294ee869.js"
+    "static/css/main.4f079fe1.css",
+    "static/js/main.2decb685.js"
   ]
 }
