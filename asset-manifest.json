@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b605de8f.css",
-    "main.js": "/static/js/main.2ffd631f.js",
+    "main.css": "/static/css/main.f37c61c8.css",
+    "main.js": "/static/js/main.4296e8b5.js",
     "static/js/787.07aee4ee.chunk.js": "/static/js/787.07aee4ee.chunk.js",
     "static/media/rodeo_drive.jpeg": "/static/media/rodeo_drive.4769d2ddbd466eae1648.jpeg",
     "static/media/santa_monica_pier.jpeg": "/static/media/santa_monica_pier.bc8fb814aed6cd726fc9.jpeg",
     "static/media/greenride.png": "/static/media/greenride.5da140e5adbdc1c31c6d.png",
     "static/media/powell_spring22.jpeg": "/static/media/powell_spring22.488713468ad8ed1d1236.jpeg",
+    "static/media/Razer.jpeg": "/static/media/Razer.12c1238dadc66d78ea3c.jpeg",
+    "static/media/LAHacks_NightTime.jpeg": "/static/media/LAHacks_NightTime.91a1f868a58d2423e3ef.jpeg",
+    "static/media/LAHacks22.jpg": "/static/media/LAHacks22.4e9ba6b4846ff98ca041.jpg",
     "static/media/pfp.png": "/static/media/pfp.68536470b3f26edf2fd7.png",
     "static/media/63222-google-scholar-doctor-science-university-philosophy-computer.png": "/static/media/63222-google-scholar-doctor-science-university-philosophy-computer.0b4c36e80a7425afa9d9.png",
     "static/media/selector-safari.png": "/static/media/selector-safari.1e41c5d26ea26714f59b.png",
@@ -14,12 +17,12 @@
     "static/media/exec_edu_building.jpeg": "/static/media/exec_edu_building.c3f938806827a4574d3d.jpeg",
     "static/media/GitHub-Logo.png": "/static/media/GitHub-Logo.f26fc6f45440f7855185.png",
     "index.html": "/index.html",
-    "main.b605de8f.css.map": "/static/css/main.b605de8f.css.map",
-    "main.2ffd631f.js.map": "/static/js/main.2ffd631f.js.map",
+    "main.f37c61c8.css.map": "/static/css/main.f37c61c8.css.map",
+    "main.4296e8b5.js.map": "/static/js/main.4296e8b5.js.map",
     "787.07aee4ee.chunk.js.map": "/static/js/787.07aee4ee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b605de8f.css",
-    "static/js/main.2ffd631f.js"
+    "static/css/main.f37c61c8.css",
+    "static/js/main.4296e8b5.js"
   ]
 }
