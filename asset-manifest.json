@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.1f563bbf.css",
-    "main.js": "/static/js/main.a5414cfa.js",
+    "main.js": "/static/js/main.bb0c483a.js",
     "static/js/787.07aee4ee.chunk.js": "/static/js/787.07aee4ee.chunk.js",
     "static/media/KPonarock.jpeg": "/static/media/KPonarock.892d4be24e52b9bc2d4e.jpeg",
     "static/media/CP_Tunnel.jpeg": "/static/media/CP_Tunnel.376a17aa2cb426599f2d.jpeg",
     "static/media/rodeo_drive.jpeg": "/static/media/rodeo_drive.4769d2ddbd466eae1648.jpeg",
     "static/media/santa_monica_pier.jpeg": "/static/media/santa_monica_pier.bc8fb814aed6cd726fc9.jpeg",
     "static/media/Imagine.jpeg": "/static/media/Imagine.ad1683c85f8fb7f2b925.jpeg",
+    "static/media/NearMSK.jpeg": "/static/media/NearMSK.481b0d4a8e49572d5527.jpeg",
     "static/media/MSK_Main_Campus.jpeg": "/static/media/MSK_Main_Campus.f6dbe47e1bb6c783d51e.jpeg",
     "static/media/Lunch2.jpeg": "/static/media/Lunch2.df8dd15758ff8c36e790.jpeg",
     "static/media/greenride.png": "/static/media/greenride.5da140e5adbdc1c31c6d.png",
@@ -34,11 +35,11 @@
     "static/media/GitHub-Logo.png": "/static/media/GitHub-Logo.f26fc6f45440f7855185.png",
     "index.html": "/index.html",
     "main.1f563bbf.css.map": "/static/css/main.1f563bbf.css.map",
-    "main.a5414cfa.js.map": "/static/js/main.a5414cfa.js.map",
+    "main.bb0c483a.js.map": "/static/js/main.bb0c483a.js.map",
     "787.07aee4ee.chunk.js.map": "/static/js/787.07aee4ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f563bbf.css",
-    "static/js/main.a5414cfa.js"
+    "static/js/main.bb0c483a.js"
   ]
 }
