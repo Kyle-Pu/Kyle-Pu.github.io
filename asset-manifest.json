@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1f563bbf.css",
-    "main.js": "/static/js/main.f048512e.js",
+    "main.js": "/static/js/main.628367d4.js",
     "static/js/787.07aee4ee.chunk.js": "/static/js/787.07aee4ee.chunk.js",
     "static/media/KPonarock.jpeg": "/static/media/KPonarock.892d4be24e52b9bc2d4e.jpeg",
     "static/media/CP_Tunnel.jpeg": "/static/media/CP_Tunnel.376a17aa2cb426599f2d.jpeg",
@@ -21,6 +21,7 @@
     "static/media/Joy2.jpeg": "/static/media/Joy2.0a9bc6808a1d03e78977.jpeg",
     "static/media/Razer.jpeg": "/static/media/Razer.12c1238dadc66d78ea3c.jpeg",
     "static/media/Lunch.jpeg": "/static/media/Lunch.198c08c7668d19b98609.jpeg",
+    "static/media/Walk.jpeg": "/static/media/Walk.6dbed50c352291f297cd.jpeg",
     "static/media/Water_for_dinner.jpeg": "/static/media/Water_for_dinner.073dcea7899e049eaf1a.jpeg",
     "static/media/JBM.jpeg": "/static/media/JBM.c1326e2f5cc458f800f1.jpeg",
     "static/media/Mural.jpeg": "/static/media/Mural.a1e77fa26a38e042db75.jpeg",
@@ -29,6 +30,7 @@
     "static/media/Joy.jpeg": "/static/media/Joy.437d96d033b99010788f.jpeg",
     "static/media/LAHacks22.jpg": "/static/media/LAHacks22.4e9ba6b4846ff98ca041.jpg",
     "static/media/pfp.png": "/static/media/pfp.68536470b3f26edf2fd7.png",
+    "static/media/Clouds.jpeg": "/static/media/Clouds.d363954dc7098be0383b.jpeg",
     "static/media/63222-google-scholar-doctor-science-university-philosophy-computer.png": "/static/media/63222-google-scholar-doctor-science-university-philosophy-computer.0b4c36e80a7425afa9d9.png",
     "static/media/selector-safari.png": "/static/media/selector-safari.1e41c5d26ea26714f59b.png",
     "static/media/Newark.jpeg": "/static/media/Newark.00b6c6c11b6d75d72a34.jpeg",
@@ -38,11 +40,11 @@
     "static/media/GitHub-Logo.png": "/static/media/GitHub-Logo.f26fc6f45440f7855185.png",
     "index.html": "/index.html",
     "main.1f563bbf.css.map": "/static/css/main.1f563bbf.css.map",
-    "main.f048512e.js.map": "/static/js/main.f048512e.js.map",
+    "main.628367d4.js.map": "/static/js/main.628367d4.js.map",
     "787.07aee4ee.chunk.js.map": "/static/js/787.07aee4ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f563bbf.css",
-    "static/js/main.f048512e.js"
+    "static/js/main.628367d4.js"
   ]
 }
