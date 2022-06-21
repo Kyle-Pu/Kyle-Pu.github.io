@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1f563bbf.css",
-    "main.js": "/static/js/main.6aa105bb.js",
+    "main.js": "/static/js/main.35a3afde.js",
     "static/js/787.07aee4ee.chunk.js": "/static/js/787.07aee4ee.chunk.js",
     "static/media/KPonarock.jpeg": "/static/media/KPonarock.892d4be24e52b9bc2d4e.jpeg",
     "static/media/CP_Tunnel.jpeg": "/static/media/CP_Tunnel.376a17aa2cb426599f2d.jpeg",
@@ -28,12 +28,15 @@
     "static/media/America.jpeg": "/static/media/America.c0474544cdc675a62de0.jpeg",
     "static/media/Walk.jpeg": "/static/media/Walk.6dbed50c352291f297cd.jpeg",
     "static/media/Water_for_dinner.jpeg": "/static/media/Water_for_dinner.073dcea7899e049eaf1a.jpeg",
+    "static/media/Yorker.jpeg": "/static/media/Yorker.08bd157bd7811f20d9d9.jpeg",
     "static/media/The_Met.jpeg": "/static/media/The_Met.139e2f274f524660ace8.jpeg",
     "static/media/JBM.jpeg": "/static/media/JBM.c1326e2f5cc458f800f1.jpeg",
     "static/media/Mural.jpeg": "/static/media/Mural.a1e77fa26a38e042db75.jpeg",
+    "static/media/Soy.jpeg": "/static/media/Soy.74487fdfae7f22e7d031.jpeg",
     "static/media/LAHacks_NightTime.jpeg": "/static/media/LAHacks_NightTime.91a1f868a58d2423e3ef.jpeg",
     "static/media/Soundproof_Pod.jpeg": "/static/media/Soundproof_Pod.9ceaee02395102b4be1d.jpeg",
     "static/media/Horse.jpeg": "/static/media/Horse.b89a5785e6745b509df9.jpeg",
+    "static/media/Thai.jpeg": "/static/media/Thai.174186636593443c5d69.jpeg",
     "static/media/FreeWipes.jpeg": "/static/media/FreeWipes.1c393a8d69be3b270fc4.jpeg",
     "static/media/Rockefeller.jpeg": "/static/media/Rockefeller.157772291ae1ccef6d7e.jpeg",
     "static/media/Joy.jpeg": "/static/media/Joy.437d96d033b99010788f.jpeg",
@@ -42,6 +45,7 @@
     "static/media/Clouds.jpeg": "/static/media/Clouds.d363954dc7098be0383b.jpeg",
     "static/media/63222-google-scholar-doctor-science-university-philosophy-computer.png": "/static/media/63222-google-scholar-doctor-science-university-philosophy-computer.0b4c36e80a7425afa9d9.png",
     "static/media/Archery.jpeg": "/static/media/Archery.7a50ea66061430598cb6.jpeg",
+    "static/media/Chat.jpeg": "/static/media/Chat.ba92d503bd7507fe6af7.jpeg",
     "static/media/selector-safari.png": "/static/media/selector-safari.1e41c5d26ea26714f59b.png",
     "static/media/Newark.jpeg": "/static/media/Newark.00b6c6c11b6d75d72a34.jpeg",
     "static/media/nutrition.png": "/static/media/nutrition.1dee6b2ca9c898c8a2fc.png",
@@ -50,11 +54,11 @@
     "static/media/GitHub-Logo.png": "/static/media/GitHub-Logo.f26fc6f45440f7855185.png",
     "index.html": "/index.html",
     "main.1f563bbf.css.map": "/static/css/main.1f563bbf.css.map",
-    "main.6aa105bb.js.map": "/static/js/main.6aa105bb.js.map",
+    "main.35a3afde.js.map": "/static/js/main.35a3afde.js.map",
     "787.07aee4ee.chunk.js.map": "/static/js/787.07aee4ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f563bbf.css",
-    "static/js/main.6aa105bb.js"
+    "static/js/main.35a3afde.js"
   ]
 }
