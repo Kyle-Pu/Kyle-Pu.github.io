@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1f563bbf.css",
-    "main.js": "/static/js/main.4c26b65d.js",
+    "main.js": "/static/js/main.793af892.js",
     "static/js/787.07aee4ee.chunk.js": "/static/js/787.07aee4ee.chunk.js",
     "static/media/KPonarock.jpeg": "/static/media/KPonarock.892d4be24e52b9bc2d4e.jpeg",
     "static/media/CP_Tunnel.jpeg": "/static/media/CP_Tunnel.376a17aa2cb426599f2d.jpeg",
@@ -23,15 +23,19 @@
     "static/media/TimesSquare.jpeg": "/static/media/TimesSquare.aa88e03ca2945f3b0a77.jpeg",
     "static/media/Church.jpeg": "/static/media/Church.640dd2395dd9eba33a7c.jpeg",
     "static/media/Chop.jpeg": "/static/media/Chop.ef4ccf9021d9723cf305.jpeg",
+    "static/media/CC.jpeg": "/static/media/CC.35fdf05a59cc28a85a91.jpeg",
     "static/media/Noodles.jpeg": "/static/media/Noodles.48d50431f67c01eba149.jpeg",
     "static/media/Reservoir.jpeg": "/static/media/Reservoir.3383280b15087693c86f.jpeg",
     "static/media/Xi'an.jpeg": "/static/media/Xi'an.5b6831ddda52df330e58.jpeg",
     "static/media/Google.jpeg": "/static/media/Google.728d825cd5e7908b0a04.jpeg",
     "static/media/CP_Lake.jpeg": "/static/media/CP_Lake.fd896b15038d3844504f.jpeg",
     "static/media/Cafeteria.jpeg": "/static/media/Cafeteria.ad1e3f92b1d04214dd1d.jpeg",
+    "static/media/Subway.jpeg": "/static/media/Subway.029e7080aae2666de468.jpeg",
     "static/media/Train.jpeg": "/static/media/Train.26e79b13c544f3e313b1.jpeg",
+    "static/media/Roosevelt.jpeg": "/static/media/Roosevelt.c92c79f9b081dc824c91.jpeg",
     "static/media/Joy2.jpeg": "/static/media/Joy2.0a9bc6808a1d03e78977.jpeg",
     "static/media/Razer.jpeg": "/static/media/Razer.12c1238dadc66d78ea3c.jpeg",
+    "static/media/Food.jpeg": "/static/media/Food.755cee92312f6bdbb3e9.jpeg",
     "static/media/Lunch.jpeg": "/static/media/Lunch.198c08c7668d19b98609.jpeg",
     "static/media/America.jpeg": "/static/media/America.c0474544cdc675a62de0.jpeg",
     "static/media/Walk.jpeg": "/static/media/Walk.6dbed50c352291f297cd.jpeg",
@@ -63,11 +67,11 @@
     "static/media/GitHub-Logo.png": "/static/media/GitHub-Logo.f26fc6f45440f7855185.png",
     "index.html": "/index.html",
     "main.1f563bbf.css.map": "/static/css/main.1f563bbf.css.map",
-    "main.4c26b65d.js.map": "/static/js/main.4c26b65d.js.map",
+    "main.793af892.js.map": "/static/js/main.793af892.js.map",
     "787.07aee4ee.chunk.js.map": "/static/js/787.07aee4ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f563bbf.css",
-    "static/js/main.4c26b65d.js"
+    "static/js/main.793af892.js"
   ]
 }
