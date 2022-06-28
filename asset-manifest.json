@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1f563bbf.css",
-    "main.js": "/static/js/main.bc41295b.js",
+    "main.js": "/static/js/main.ba596a6f.js",
     "static/js/787.07aee4ee.chunk.js": "/static/js/787.07aee4ee.chunk.js",
     "static/media/KPonarock.jpeg": "/static/media/KPonarock.892d4be24e52b9bc2d4e.jpeg",
     "static/media/Touch.jpeg": "/static/media/Touch.8625ef1874522f1dee10.jpeg",
@@ -33,6 +33,7 @@
     "static/media/Candid.jpeg": "/static/media/Candid.546add4481581ac18fe9.jpeg",
     "static/media/Lunch15.jpeg": "/static/media/Lunch15.b37bff071d1064dd76a6.jpeg",
     "static/media/Church.jpeg": "/static/media/Church.640dd2395dd9eba33a7c.jpeg",
+    "static/media/Oatmeal.jpeg": "/static/media/Oatmeal.63fd868a92fbd5530b34.jpeg",
     "static/media/Dumbo.jpeg": "/static/media/Dumbo.a1b2c25c646d6f6924cf.jpeg",
     "static/media/Chop.jpeg": "/static/media/Chop.ef4ccf9021d9723cf305.jpeg",
     "static/media/FerryTerminal.jpeg": "/static/media/FerryTerminal.a11221e5331938c5064e.jpeg",
@@ -46,6 +47,7 @@
     "static/media/Google.jpeg": "/static/media/Google.728d825cd5e7908b0a04.jpeg",
     "static/media/CP_Lake.jpeg": "/static/media/CP_Lake.fd896b15038d3844504f.jpeg",
     "static/media/Cafeteria.jpeg": "/static/media/Cafeteria.ad1e3f92b1d04214dd1d.jpeg",
+    "static/media/Dumplings.jpeg": "/static/media/Dumplings.68ce9fd246e3d58cb48b.jpeg",
     "static/media/Subway.jpeg": "/static/media/Subway.029e7080aae2666de468.jpeg",
     "static/media/Train.jpeg": "/static/media/Train.26e79b13c544f3e313b1.jpeg",
     "static/media/Aziz_Ferry.jpeg": "/static/media/Aziz_Ferry.e0e996458d850189621d.jpeg",
@@ -72,6 +74,7 @@
     "static/media/Lib.jpeg": "/static/media/Lib.648f7cbef681fcda9e56.jpeg",
     "static/media/Soy.jpeg": "/static/media/Soy.74487fdfae7f22e7d031.jpeg",
     "static/media/LAHacks_NightTime.jpeg": "/static/media/LAHacks_NightTime.91a1f868a58d2423e3ef.jpeg",
+    "static/media/Workout.jpeg": "/static/media/Workout.c46f391916594cce602f.jpeg",
     "static/media/Soundproof_Pod.jpeg": "/static/media/Soundproof_Pod.9ceaee02395102b4be1d.jpeg",
     "static/media/Wholesome_Subway.jpeg": "/static/media/Wholesome_Subway.c64ae7a94095667d9a08.jpeg",
     "static/media/Horse.jpeg": "/static/media/Horse.b89a5785e6745b509df9.jpeg",
@@ -97,11 +100,11 @@
     "static/media/GitHub-Logo.png": "/static/media/GitHub-Logo.f26fc6f45440f7855185.png",
     "index.html": "/index.html",
     "main.1f563bbf.css.map": "/static/css/main.1f563bbf.css.map",
-    "main.bc41295b.js.map": "/static/js/main.bc41295b.js.map",
+    "main.ba596a6f.js.map": "/static/js/main.ba596a6f.js.map",
     "787.07aee4ee.chunk.js.map": "/static/js/787.07aee4ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f563bbf.css",
-    "static/js/main.bc41295b.js"
+    "static/js/main.ba596a6f.js"
   ]
 }
