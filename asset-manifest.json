@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1f563bbf.css",
-    "main.js": "/static/js/main.d51a6201.js",
+    "main.js": "/static/js/main.a6917834.js",
     "static/js/787.07aee4ee.chunk.js": "/static/js/787.07aee4ee.chunk.js",
     "static/media/KPonarock.jpeg": "/static/media/KPonarock.892d4be24e52b9bc2d4e.jpeg",
     "static/media/Touch.jpeg": "/static/media/Touch.8625ef1874522f1dee10.jpeg",
@@ -14,6 +14,7 @@
     "static/media/CT_Trash.jpeg": "/static/media/CT_Trash.90acf90ecd01a493af76.jpeg",
     "static/media/Fuzhou_Menu.jpeg": "/static/media/Fuzhou_Menu.dea92097aa3017dee3be.jpeg",
     "static/media/NearMSK.jpeg": "/static/media/NearMSK.481b0d4a8e49572d5527.jpeg",
+    "static/media/Venue.jpeg": "/static/media/Venue.65d0c73f85eaf7e64eeb.jpeg",
     "static/media/MSK_Main_Campus.jpeg": "/static/media/MSK_Main_Campus.f6dbe47e1bb6c783d51e.jpeg",
     "static/media/88.jpeg": "/static/media/88.32cc550eb9b93ff4796c.jpeg",
     "static/media/Aziz_Hug.jpeg": "/static/media/Aziz_Hug.a01d64f0c6a2470fb807.jpeg",
@@ -29,6 +30,7 @@
     "static/media/Brooklyn_Bridge.jpeg": "/static/media/Brooklyn_Bridge.3f744a0bfe5fb7b2399f.jpeg",
     "static/media/powell_spring22.jpeg": "/static/media/powell_spring22.488713468ad8ed1d1236.jpeg",
     "static/media/Saw.jpeg": "/static/media/Saw.ee5f9fdcaba875a0afa0.jpeg",
+    "static/media/Opening_Set.jpeg": "/static/media/Opening_Set.4a51b86c81ddb5d59b94.jpeg",
     "static/media/TimesSquare.jpeg": "/static/media/TimesSquare.aa88e03ca2945f3b0a77.jpeg",
     "static/media/Candid.jpeg": "/static/media/Candid.546add4481581ac18fe9.jpeg",
     "static/media/Lunch15.jpeg": "/static/media/Lunch15.b37bff071d1064dd76a6.jpeg",
@@ -44,6 +46,7 @@
     "static/media/FerrySelfie.jpeg": "/static/media/FerrySelfie.2f9eaeb0d28fca30c70d.jpeg",
     "static/media/Staged.jpeg": "/static/media/Staged.e97e62df636594967b5a.jpeg",
     "static/media/Xi'an.jpeg": "/static/media/Xi'an.5b6831ddda52df330e58.jpeg",
+    "static/media/Macys.jpeg": "/static/media/Macys.705c4345907c96d6c9c3.jpeg",
     "static/media/Google.jpeg": "/static/media/Google.728d825cd5e7908b0a04.jpeg",
     "static/media/CP_Lake.jpeg": "/static/media/CP_Lake.fd896b15038d3844504f.jpeg",
     "static/media/Cafeteria.jpeg": "/static/media/Cafeteria.ad1e3f92b1d04214dd1d.jpeg",
@@ -52,6 +55,7 @@
     "static/media/Train.jpeg": "/static/media/Train.26e79b13c544f3e313b1.jpeg",
     "static/media/Aziz_Ferry.jpeg": "/static/media/Aziz_Ferry.e0e996458d850189621d.jpeg",
     "static/media/Roosevelt.jpeg": "/static/media/Roosevelt.c92c79f9b081dc824c91.jpeg",
+    "static/media/Wok.jpeg": "/static/media/Wok.2564a6dbaa5ff84b7763.jpeg",
     "static/media/Joy2.jpeg": "/static/media/Joy2.0a9bc6808a1d03e78977.jpeg",
     "static/media/Razer.jpeg": "/static/media/Razer.12c1238dadc66d78ea3c.jpeg",
     "static/media/Food.jpeg": "/static/media/Food.755cee92312f6bdbb3e9.jpeg",
@@ -62,6 +66,7 @@
     "static/media/Ferry.jpeg": "/static/media/Ferry.5ae6f8fbfd1e84a12602.jpeg",
     "static/media/Miralax.jpeg": "/static/media/Miralax.1e67832fe95bbd5ce960.jpeg",
     "static/media/Aziz.jpeg": "/static/media/Aziz.b0cbfbb31d23d589893b.jpeg",
+    "static/media/Group_Selfie.jpeg": "/static/media/Group_Selfie.a01cfb0d9cd23e316a0b.jpeg",
     "static/media/Water_for_dinner.jpeg": "/static/media/Water_for_dinner.073dcea7899e049eaf1a.jpeg",
     "static/media/Hair.jpeg": "/static/media/Hair.8e22a1ebcee89c80f0be.jpeg",
     "static/media/Subway_Man.jpeg": "/static/media/Subway_Man.5f5ac8caa06786944b24.jpeg",
@@ -100,11 +105,11 @@
     "static/media/GitHub-Logo.png": "/static/media/GitHub-Logo.f26fc6f45440f7855185.png",
     "index.html": "/index.html",
     "main.1f563bbf.css.map": "/static/css/main.1f563bbf.css.map",
-    "main.d51a6201.js.map": "/static/js/main.d51a6201.js.map",
+    "main.a6917834.js.map": "/static/js/main.a6917834.js.map",
     "787.07aee4ee.chunk.js.map": "/static/js/787.07aee4ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f563bbf.css",
-    "static/js/main.d51a6201.js"
+    "static/js/main.a6917834.js"
   ]
 }
