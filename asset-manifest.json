@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1f563bbf.css",
-    "main.js": "/static/js/main.b1b6698a.js",
+    "main.js": "/static/js/main.18226e8c.js",
     "static/js/787.07aee4ee.chunk.js": "/static/js/787.07aee4ee.chunk.js",
     "static/media/Hamoc.jpeg": "/static/media/Hamoc.9ebcd91daeb79d44334e.jpeg",
     "static/media/KPonarock.jpeg": "/static/media/KPonarock.892d4be24e52b9bc2d4e.jpeg",
@@ -46,6 +46,7 @@
     "static/media/powell_spring22.jpeg": "/static/media/powell_spring22.488713468ad8ed1d1236.jpeg",
     "static/media/Columbia.jpeg": "/static/media/Columbia.310a3ade7e913a6a0c81.jpeg",
     "static/media/Saw.jpeg": "/static/media/Saw.ee5f9fdcaba875a0afa0.jpeg",
+    "static/media/Grocery Cart.jpeg": "/static/media/Grocery Cart.4fd9def8624baad9675a.jpeg",
     "static/media/Opening_Set.jpeg": "/static/media/Opening_Set.4a51b86c81ddb5d59b94.jpeg",
     "static/media/TimesSquare.jpeg": "/static/media/TimesSquare.aa88e03ca2945f3b0a77.jpeg",
     "static/media/Candid.jpeg": "/static/media/Candid.546add4481581ac18fe9.jpeg",
@@ -86,6 +87,7 @@
     "static/media/Seaport.jpeg": "/static/media/Seaport.40f9b7715a3716837612.jpeg",
     "static/media/Roosevelt.jpeg": "/static/media/Roosevelt.c92c79f9b081dc824c91.jpeg",
     "static/media/SunsetBuildings.jpeg": "/static/media/SunsetBuildings.f74ee1fda661fccd30f5.jpeg",
+    "static/media/Joy_MSKCC.jpeg": "/static/media/Joy_MSKCC.51c52d5df12d6d3aa674.jpeg",
     "static/media/MSK_Joy.jpeg": "/static/media/MSK_Joy.51c52d5df12d6d3aa674.jpeg",
     "static/media/Wok.jpeg": "/static/media/Wok.2564a6dbaa5ff84b7763.jpeg",
     "static/media/Joy2.jpeg": "/static/media/Joy2.0a9bc6808a1d03e78977.jpeg",
@@ -124,6 +126,7 @@
     "static/media/Lib.jpeg": "/static/media/Lib.648f7cbef681fcda9e56.jpeg",
     "static/media/Soy.jpeg": "/static/media/Soy.74487fdfae7f22e7d031.jpeg",
     "static/media/LAHacks_NightTime.jpeg": "/static/media/LAHacks_NightTime.91a1f868a58d2423e3ef.jpeg",
+    "static/media/Our Fridge.jpeg": "/static/media/Our Fridge.b11d0cf83b038609f16e.jpeg",
     "static/media/Workout.jpeg": "/static/media/Workout.c46f391916594cce602f.jpeg",
     "static/media/BreakRoom.jpeg": "/static/media/BreakRoom.0613214cd9406ab043da.jpeg",
     "static/media/Soundproof_Pod.jpeg": "/static/media/Soundproof_Pod.9ceaee02395102b4be1d.jpeg",
@@ -131,6 +134,7 @@
     "static/media/Horse.jpeg": "/static/media/Horse.b89a5785e6745b509df9.jpeg",
     "static/media/Sunset2.jpeg": "/static/media/Sunset2.7b03384b7c766a988869.jpeg",
     "static/media/Dumpling.jpeg": "/static/media/Dumpling.2ffd687afbb5d66f5b1c.jpeg",
+    "static/media/Lentil Soup.jpeg": "/static/media/Lentil Soup.52916bc8f3fb0d2aea5b.jpeg",
     "static/media/DumbCook.jpeg": "/static/media/DumbCook.067d2c584d3a3423f7c3.jpeg",
     "static/media/Thai.jpeg": "/static/media/Thai.174186636593443c5d69.jpeg",
     "static/media/Final_Product.jpeg": "/static/media/Final_Product.935addf7a176c3369f77.jpeg",
@@ -145,6 +149,7 @@
     "static/media/CT_Receipt.jpeg": "/static/media/CT_Receipt.e31604988386547d88fd.jpeg",
     "static/media/Clouds.jpeg": "/static/media/Clouds.d363954dc7098be0383b.jpeg",
     "static/media/63222-google-scholar-doctor-science-university-philosophy-computer.png": "/static/media/63222-google-scholar-doctor-science-university-philosophy-computer.0b4c36e80a7425afa9d9.png",
+    "static/media/Home Cooked Dinner.jpeg": "/static/media/Home Cooked Dinner.78bfbdd85b692e63a688.jpeg",
     "static/media/Archery.jpeg": "/static/media/Archery.7a50ea66061430598cb6.jpeg",
     "static/media/Chat.jpeg": "/static/media/Chat.ba92d503bd7507fe6af7.jpeg",
     "static/media/selector-safari.png": "/static/media/selector-safari.1e41c5d26ea26714f59b.png",
@@ -157,11 +162,11 @@
     "static/media/GitHub-Logo.png": "/static/media/GitHub-Logo.f26fc6f45440f7855185.png",
     "index.html": "/index.html",
     "main.1f563bbf.css.map": "/static/css/main.1f563bbf.css.map",
-    "main.b1b6698a.js.map": "/static/js/main.b1b6698a.js.map",
+    "main.18226e8c.js.map": "/static/js/main.18226e8c.js.map",
     "787.07aee4ee.chunk.js.map": "/static/js/787.07aee4ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f563bbf.css",
-    "static/js/main.b1b6698a.js"
+    "static/js/main.18226e8c.js"
   ]
 }
