@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1f563bbf.css",
-    "main.js": "/static/js/main.50f62c61.js",
+    "main.js": "/static/js/main.aaf58d59.js",
     "static/js/787.07aee4ee.chunk.js": "/static/js/787.07aee4ee.chunk.js",
     "static/media/Hamoc.jpeg": "/static/media/Hamoc.9ebcd91daeb79d44334e.jpeg",
     "static/media/KPonarock.jpeg": "/static/media/KPonarock.892d4be24e52b9bc2d4e.jpeg",
@@ -57,6 +57,7 @@
     "static/media/powell_spring22.jpeg": "/static/media/powell_spring22.488713468ad8ed1d1236.jpeg",
     "static/media/Columbia.jpeg": "/static/media/Columbia.310a3ade7e913a6a0c81.jpeg",
     "static/media/Chowmein.jpeg": "/static/media/Chowmein.51bdd403c5efb6a517c9.jpeg",
+    "static/media/RiceCakes.jpeg": "/static/media/RiceCakes.db907ae7766b42b6adf3.jpeg",
     "static/media/TopView.jpeg": "/static/media/TopView.e8e9a88ebe323f21ada2.jpeg",
     "static/media/MHSelfie.jpeg": "/static/media/MHSelfie.731b8249aaf505d3bbe5.jpeg",
     "static/media/Saw.jpeg": "/static/media/Saw.ee5f9fdcaba875a0afa0.jpeg",
@@ -85,6 +86,7 @@
     "static/media/FerryTerminal.jpeg": "/static/media/FerryTerminal.a11221e5331938c5064e.jpeg",
     "static/media/FreeFruit.jpeg": "/static/media/FreeFruit.5005402cc9b272aaeefa.jpeg",
     "static/media/March.jpeg": "/static/media/March.661f1b98f3f2f37b8fd2.jpeg",
+    "static/media/Veggies.jpeg": "/static/media/Veggies.d6926f659bfd6358edca.jpeg",
     "static/media/CC.jpeg": "/static/media/CC.35fdf05a59cc28a85a91.jpeg",
     "static/media/JoshSunset.jpeg": "/static/media/JoshSunset.75697f9d5361e5996ec4.jpeg",
     "static/media/Noodles.jpeg": "/static/media/Noodles.48d50431f67c01eba149.jpeg",
@@ -223,6 +225,7 @@
     "static/media/Archery.jpeg": "/static/media/Archery.7a50ea66061430598cb6.jpeg",
     "static/media/Chat.jpeg": "/static/media/Chat.ba92d503bd7507fe6af7.jpeg",
     "static/media/selector-safari.png": "/static/media/selector-safari.1e41c5d26ea26714f59b.png",
+    "static/media/Breakfast.jpeg": "/static/media/Breakfast.0c8778de400711e4fec6.jpeg",
     "static/media/Newark.jpeg": "/static/media/Newark.00b6c6c11b6d75d72a34.jpeg",
     "static/media/nutrition.png": "/static/media/nutrition.1dee6b2ca9c898c8a2fc.png",
     "static/media/Boiling.jpeg": "/static/media/Boiling.3451b6916029901d9052.jpeg",
@@ -235,11 +238,11 @@
     "static/media/GitHub-Logo.png": "/static/media/GitHub-Logo.f26fc6f45440f7855185.png",
     "index.html": "/index.html",
     "main.1f563bbf.css.map": "/static/css/main.1f563bbf.css.map",
-    "main.50f62c61.js.map": "/static/js/main.50f62c61.js.map",
+    "main.aaf58d59.js.map": "/static/js/main.aaf58d59.js.map",
     "787.07aee4ee.chunk.js.map": "/static/js/787.07aee4ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f563bbf.css",
-    "static/js/main.50f62c61.js"
+    "static/js/main.aaf58d59.js"
   ]
 }
