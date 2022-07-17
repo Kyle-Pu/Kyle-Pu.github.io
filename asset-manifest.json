@@ -1,8 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.1f563bbf.css",
-    "main.js": "/static/js/main.61e1713b.js",
+    "main.js": "/static/js/main.63eeef09.js",
     "static/js/787.07aee4ee.chunk.js": "/static/js/787.07aee4ee.chunk.js",
+    "static/media/Bear.jpeg": "/static/media/Bear.c325c8a48100d7d6eb4d.jpeg",
+    "static/media/Bear2.jpeg": "/static/media/Bear2.d6552ff016e40be99be2.jpeg",
     "static/media/Hamoc.jpeg": "/static/media/Hamoc.9ebcd91daeb79d44334e.jpeg",
     "static/media/KPonarock.jpeg": "/static/media/KPonarock.892d4be24e52b9bc2d4e.jpeg",
     "static/media/Highline2.jpeg": "/static/media/Highline2.38934cbfd98441ec3bc0.jpeg",
@@ -22,6 +24,7 @@
     "static/media/EdgeSunsetSelfie.jpeg": "/static/media/EdgeSunsetSelfie.7605b8a3cc04cc8f6612.jpeg",
     "static/media/OutsideMacy.jpeg": "/static/media/OutsideMacy.8c676ac4fd46a036788c.jpeg",
     "static/media/Group.jpeg": "/static/media/Group.44711330990fd0eb960a.jpeg",
+    "static/media/BronxRock.jpeg": "/static/media/BronxRock.b686f2334dd891d73251.jpeg",
     "static/media/Little.jpeg": "/static/media/Little.9b9d8d72f7041a8ea0f1.jpeg",
     "static/media/StCatherinesPark.jpeg": "/static/media/StCatherinesPark.9d0ae4f602bf4da38335.jpeg",
     "static/media/CT_Trash.jpeg": "/static/media/CT_Trash.90acf90ecd01a493af76.jpeg",
@@ -43,6 +46,7 @@
     "static/media/greenride.png": "/static/media/greenride.5da140e5adbdc1c31c6d.png",
     "static/media/Chair.jpeg": "/static/media/Chair.051c8c825c7536968af4.jpeg",
     "static/media/Stadium.jpeg": "/static/media/Stadium.b3ffd98d80f6bdfafdb2.jpeg",
+    "static/media/BronxZoo.jpeg": "/static/media/BronxZoo.a3d5dbb7205c41e1940c.jpeg",
     "static/media/NY_StreetView.jpeg": "/static/media/NY_StreetView.adeab78002313a015663.jpeg",
     "static/media/OutdoorsSubway.jpeg": "/static/media/OutdoorsSubway.a9dc7be4547c6d6d78e9.jpeg",
     "static/media/FreeStuff.jpeg": "/static/media/FreeStuff.29438a33d29dee189c3b.jpeg",
@@ -96,6 +100,7 @@
     "static/media/CC.jpeg": "/static/media/CC.35fdf05a59cc28a85a91.jpeg",
     "static/media/JoshSunset.jpeg": "/static/media/JoshSunset.75697f9d5361e5996ec4.jpeg",
     "static/media/Noodles.jpeg": "/static/media/Noodles.48d50431f67c01eba149.jpeg",
+    "static/media/Coffee.jpeg": "/static/media/Coffee.cdddbd8fccc61841ebc6.jpeg",
     "static/media/Reservoir.jpeg": "/static/media/Reservoir.3383280b15087693c86f.jpeg",
     "static/media/Yawning.jpeg": "/static/media/Yawning.2ec1f4c09f8dbce422a4.jpeg",
     "static/media/FerrySelfie.jpeg": "/static/media/FerrySelfie.2f9eaeb0d28fca30c70d.jpeg",
@@ -143,6 +148,7 @@
     "static/media/EmptySubway.jpeg": "/static/media/EmptySubway.3c31602996489cd7bb0a.jpeg",
     "static/media/Sweetgreen.jpeg": "/static/media/Sweetgreen.6dea1b8d3a0111c966d7.jpeg",
     "static/media/Manhattenhenge.jpeg": "/static/media/Manhattenhenge.ea139d100f7a9d5c2d2b.jpeg",
+    "static/media/RushHour.jpeg": "/static/media/RushHour.b989cae5e201c399146e.jpeg",
     "static/media/Razer.jpeg": "/static/media/Razer.12c1238dadc66d78ea3c.jpeg",
     "static/media/SydneyNYC.jpeg": "/static/media/SydneyNYC.5fe3fb3caa463fdd5ff4.jpeg",
     "static/media/BeforePic.jpeg": "/static/media/BeforePic.bc4ad02a65fbf2b4f0cd.jpeg",
@@ -206,6 +212,8 @@
     "static/media/BreakRoom.jpeg": "/static/media/BreakRoom.0613214cd9406ab043da.jpeg",
     "static/media/Soundproof_Pod.jpeg": "/static/media/Soundproof_Pod.9ceaee02395102b4be1d.jpeg",
     "static/media/Wholesome_Subway.jpeg": "/static/media/Wholesome_Subway.c64ae7a94095667d9a08.jpeg",
+    "static/media/Rain.jpeg": "/static/media/Rain.c8fcb45f261a4802568a.jpeg",
+    "static/media/SubwayOutside.jpeg": "/static/media/SubwayOutside.c68a022b95c4a83a935c.jpeg",
     "static/media/Horse.jpeg": "/static/media/Horse.b89a5785e6745b509df9.jpeg",
     "static/media/CupcakeSelfie.jpeg": "/static/media/CupcakeSelfie.70dc76dcb15f144e4619.jpeg",
     "static/media/Sunset2.jpeg": "/static/media/Sunset2.7b03384b7c766a988869.jpeg",
@@ -255,11 +263,11 @@
     "static/media/GitHub-Logo.png": "/static/media/GitHub-Logo.f26fc6f45440f7855185.png",
     "index.html": "/index.html",
     "main.1f563bbf.css.map": "/static/css/main.1f563bbf.css.map",
-    "main.61e1713b.js.map": "/static/js/main.61e1713b.js.map",
+    "main.63eeef09.js.map": "/static/js/main.63eeef09.js.map",
     "787.07aee4ee.chunk.js.map": "/static/js/787.07aee4ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f563bbf.css",
-    "static/js/main.61e1713b.js"
+    "static/js/main.63eeef09.js"
   ]
 }
