@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1f563bbf.css",
-    "main.js": "/static/js/main.63eeef09.js",
+    "main.js": "/static/js/main.b5a96e56.js",
     "static/js/787.07aee4ee.chunk.js": "/static/js/787.07aee4ee.chunk.js",
     "static/media/Bear.jpeg": "/static/media/Bear.c325c8a48100d7d6eb4d.jpeg",
     "static/media/Bear2.jpeg": "/static/media/Bear2.d6552ff016e40be99be2.jpeg",
@@ -24,9 +24,11 @@
     "static/media/EdgeSunsetSelfie.jpeg": "/static/media/EdgeSunsetSelfie.7605b8a3cc04cc8f6612.jpeg",
     "static/media/OutsideMacy.jpeg": "/static/media/OutsideMacy.8c676ac4fd46a036788c.jpeg",
     "static/media/Group.jpeg": "/static/media/Group.44711330990fd0eb960a.jpeg",
+    "static/media/ProspectPark.jpeg": "/static/media/ProspectPark.842b525d38c46876b3ab.jpeg",
     "static/media/BronxRock.jpeg": "/static/media/BronxRock.b686f2334dd891d73251.jpeg",
     "static/media/Little.jpeg": "/static/media/Little.9b9d8d72f7041a8ea0f1.jpeg",
     "static/media/StCatherinesPark.jpeg": "/static/media/StCatherinesPark.9d0ae4f602bf4da38335.jpeg",
+    "static/media/ProspectParkLake.jpeg": "/static/media/ProspectParkLake.b8db3da8e02379736f3c.jpeg",
     "static/media/CT_Trash.jpeg": "/static/media/CT_Trash.90acf90ecd01a493af76.jpeg",
     "static/media/OutsideMacys.jpeg": "/static/media/OutsideMacys.08c4ec01e2c7d8cb8906.jpeg",
     "static/media/Fuzhou_Menu.jpeg": "/static/media/Fuzhou_Menu.dea92097aa3017dee3be.jpeg",
@@ -67,6 +69,7 @@
     "static/media/Columbia.jpeg": "/static/media/Columbia.310a3ade7e913a6a0c81.jpeg",
     "static/media/Chowmein.jpeg": "/static/media/Chowmein.51bdd403c5efb6a517c9.jpeg",
     "static/media/RiceCakes.jpeg": "/static/media/RiceCakes.db907ae7766b42b6adf3.jpeg",
+    "static/media/RiceCakesTraditional.jpeg": "/static/media/RiceCakesTraditional.953226beacf44aaecc44.jpeg",
     "static/media/TopView.jpeg": "/static/media/TopView.e8e9a88ebe323f21ada2.jpeg",
     "static/media/MHSelfie.jpeg": "/static/media/MHSelfie.731b8249aaf505d3bbe5.jpeg",
     "static/media/Saw.jpeg": "/static/media/Saw.ee5f9fdcaba875a0afa0.jpeg",
@@ -85,6 +88,7 @@
     "static/media/Chinatown_Lanterns.jpeg": "/static/media/Chinatown_Lanterns.94bb6d859a1582f7bbf5.jpeg",
     "static/media/Lunch15.jpeg": "/static/media/Lunch15.b37bff071d1064dd76a6.jpeg",
     "static/media/BrooklynSelfie.jpeg": "/static/media/BrooklynSelfie.dec998a8240adaaf7c44.jpeg",
+    "static/media/AMC.jpeg": "/static/media/AMC.f7f78cd875a7b704d748.jpeg",
     "static/media/Nachos.jpeg": "/static/media/Nachos.42fc8657015de29d735b.jpeg",
     "static/media/Church.jpeg": "/static/media/Church.640dd2395dd9eba33a7c.jpeg",
     "static/media/Oatmeal.jpeg": "/static/media/Oatmeal.63fd868a92fbd5530b34.jpeg",
@@ -92,6 +96,7 @@
     "static/media/Chop.jpeg": "/static/media/Chop.ef4ccf9021d9723cf305.jpeg",
     "static/media/YutaroSleepy.jpeg": "/static/media/YutaroSleepy.da16d85c196418cbe072.jpeg",
     "static/media/DEH.jpeg": "/static/media/DEH.b16680c24d0f2c262fd5.jpeg",
+    "static/media/BraisedPork.jpeg": "/static/media/BraisedPork.985a9b047f155ba4c9d4.jpeg",
     "static/media/BiggerGroupAtEdge.jpeg": "/static/media/BiggerGroupAtEdge.9965f7c5e013a1435b78.jpeg",
     "static/media/FerryTerminal.jpeg": "/static/media/FerryTerminal.a11221e5331938c5064e.jpeg",
     "static/media/FreeFruit.jpeg": "/static/media/FreeFruit.5005402cc9b272aaeefa.jpeg",
@@ -129,6 +134,7 @@
     "static/media/SideHair.jpeg": "/static/media/SideHair.62b6a1a6c5a74b623855.jpeg",
     "static/media/Fitness.jpeg": "/static/media/Fitness.927f1b6bc71f9dc39717.jpeg",
     "static/media/Train.jpeg": "/static/media/Train.26e79b13c544f3e313b1.jpeg",
+    "static/media/Empire.jpeg": "/static/media/Empire.2ad6bb355ae48183ddea.jpeg",
     "static/media/House.jpeg": "/static/media/House.5377b48d513a98af2c14.jpeg",
     "static/media/MeAtEdge.jpeg": "/static/media/MeAtEdge.dd4f215a7e962098cfe2.jpeg",
     "static/media/Aziz_Ferry.jpeg": "/static/media/Aziz_Ferry.e0e996458d850189621d.jpeg",
@@ -142,6 +148,7 @@
     "static/media/SunsetBuildings.jpeg": "/static/media/SunsetBuildings.f74ee1fda661fccd30f5.jpeg",
     "static/media/Joy_MSKCC.jpeg": "/static/media/Joy_MSKCC.51c52d5df12d6d3aa674.jpeg",
     "static/media/MSK_Joy.jpeg": "/static/media/MSK_Joy.51c52d5df12d6d3aa674.jpeg",
+    "static/media/Smorgasburg.jpeg": "/static/media/Smorgasburg.8c6358bd4c3620c55f36.jpeg",
     "static/media/Wok.jpeg": "/static/media/Wok.2564a6dbaa5ff84b7763.jpeg",
     "static/media/FishLunch.jpeg": "/static/media/FishLunch.1a0ef5c5a7a10cc94467.jpeg",
     "static/media/Joy2.jpeg": "/static/media/Joy2.0a9bc6808a1d03e78977.jpeg",
@@ -192,6 +199,7 @@
     "static/media/The_Met.jpeg": "/static/media/The_Met.139e2f274f524660ace8.jpeg",
     "static/media/KyleOnChair.jpeg": "/static/media/KyleOnChair.cc584d02fc3891d61377.jpeg",
     "static/media/JBM.jpeg": "/static/media/JBM.c1326e2f5cc458f800f1.jpeg",
+    "static/media/Lemonade.jpeg": "/static/media/Lemonade.c2ae50dc2f8e1417ecf0.jpeg",
     "static/media/Fireworks.jpeg": "/static/media/Fireworks.48328ad23ae3467d0506.jpeg",
     "static/media/StudyRoom.jpeg": "/static/media/StudyRoom.9be684e4091e008be755.jpeg",
     "static/media/Sunset.jpeg": "/static/media/Sunset.7b5d9e5c14b13eaa6b79.jpeg",
@@ -231,6 +239,7 @@
     "static/media/Statue of Liberty.jpeg": "/static/media/Statue of Liberty.7b93c2e4ad21e143ce89.jpeg",
     "static/media/Skyline.jpeg": "/static/media/Skyline.21695d8ac5f5e8024c16.jpeg",
     "static/media/FreeWipes.jpeg": "/static/media/FreeWipes.1c393a8d69be3b270fc4.jpeg",
+    "static/media/TopGun2.jpeg": "/static/media/TopGun2.aff37392ff84142fb22c.jpeg",
     "static/media/Rockefeller.jpeg": "/static/media/Rockefeller.157772291ae1ccef6d7e.jpeg",
     "static/media/Joy.jpeg": "/static/media/Joy.437d96d033b99010788f.jpeg",
     "static/media/MHSelfie2.jpeg": "/static/media/MHSelfie2.3d601066035c2df5d08f.jpeg",
@@ -263,11 +272,11 @@
     "static/media/GitHub-Logo.png": "/static/media/GitHub-Logo.f26fc6f45440f7855185.png",
     "index.html": "/index.html",
     "main.1f563bbf.css.map": "/static/css/main.1f563bbf.css.map",
-    "main.63eeef09.js.map": "/static/js/main.63eeef09.js.map",
+    "main.b5a96e56.js.map": "/static/js/main.b5a96e56.js.map",
     "787.07aee4ee.chunk.js.map": "/static/js/787.07aee4ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f563bbf.css",
-    "static/js/main.63eeef09.js"
+    "static/js/main.b5a96e56.js"
   ]
 }
