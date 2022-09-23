@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1f563bbf.css",
-    "main.js": "/static/js/main.d76fd5f7.js",
+    "main.js": "/static/js/main.662727e8.js",
     "static/js/787.07aee4ee.chunk.js": "/static/js/787.07aee4ee.chunk.js",
     "static/media/IMG_4430.jpeg": "/static/media/IMG_4430.ad78b96580ea7bc2daa0.jpeg",
     "static/media/5.jpeg": "/static/media/5.5878a2c7a0f66ccf7954.jpeg",
@@ -45,6 +45,7 @@
     "static/media/RockefellerUni.jpeg": "/static/media/RockefellerUni.02e2f9d84b42f062c6a0.jpeg",
     "static/media/IMG_4404.jpeg": "/static/media/IMG_4404.ec2f2288a0593da28b59.jpeg",
     "static/media/BronxRock.jpeg": "/static/media/BronxRock.b686f2334dd891d73251.jpeg",
+    "static/media/Pauley.jpeg": "/static/media/Pauley.3a39d95eb2d5d37a0a87.jpeg",
     "static/media/IMG_4386.jpeg": "/static/media/IMG_4386.9eff02019f08d603cdf9.jpeg",
     "static/media/Little.jpeg": "/static/media/Little.9b9d8d72f7041a8ea0f1.jpeg",
     "static/media/StCatherinesPark.jpeg": "/static/media/StCatherinesPark.9d0ae4f602bf4da38335.jpeg",
@@ -107,6 +108,7 @@
     "static/media/WorldsLargest.jpeg": "/static/media/WorldsLargest.a58862ce7ce68050e622.jpeg",
     "static/media/Moynihan_Sky.jpeg": "/static/media/Moynihan_Sky.d1a96f059304e89bfba7.jpeg",
     "static/media/MorningNYC.jpeg": "/static/media/MorningNYC.59535cefbfd0146e2305.jpeg",
+    "static/media/WelcomeToUCLA.jpeg": "/static/media/WelcomeToUCLA.9fa65e6c1860a34ac9ab.jpeg",
     "static/media/IMG_9387.jpeg": "/static/media/IMG_9387.5b501eba59abddb96121.jpeg",
     "static/media/RawEgg.jpeg": "/static/media/RawEgg.6a5c900c94eec225073d.jpeg",
     "static/media/GovIslandTerm.jpeg": "/static/media/GovIslandTerm.f2dfaaad3cf06df57e56.jpeg",
@@ -131,7 +133,7 @@
     "static/media/LibSelfie.jpeg": "/static/media/LibSelfie.7fbad2d1bf83fdfd50e7.jpeg",
     "static/media/Bryant.jpeg": "/static/media/Bryant.e9e2de06f7d238b29cc1.jpeg",
     "static/media/IMG_8771.jpeg": "/static/media/IMG_8771.644d2f8d119fef53fe22.jpeg",
-    "static/media/Chinatown.jpeg": "/static/media/Chinatown.765cdf75c2eb824ba178.jpeg",
+    "static/media/Chinatown.jpeg": "/static/media/Chinatown.7009c8513e2d3d15d2f7.jpeg",
     "static/media/Brooklyn_Bridge.jpeg": "/static/media/Brooklyn_Bridge.3f744a0bfe5fb7b2399f.jpeg",
     "static/media/HighlineView.jpeg": "/static/media/HighlineView.56d1b59d035e07ee4beb.jpeg",
     "static/media/IMG_9248.jpeg": "/static/media/IMG_9248.2552c09e39e2801a19d7.jpeg",
@@ -531,6 +533,7 @@
     "static/media/IMG_4653.jpeg": "/static/media/IMG_4653.f87e6754fcf779233f0c.jpeg",
     "static/media/IMG_4346.jpeg": "/static/media/IMG_4346.cafc57ec6e7e29d737b6.jpeg",
     "static/media/Seat.jpeg": "/static/media/Seat.933cacdeac3f482d17af.jpeg",
+    "static/media/ChinaGroup.jpeg": "/static/media/ChinaGroup.3a8ce373c43e2b1b0eca.jpeg",
     "static/media/IMG_8785.jpeg": "/static/media/IMG_8785.efca1514fc62aecad3ff.jpeg",
     "static/media/IMG_9080.jpeg": "/static/media/IMG_9080.ac81da41f5bf2995d4c0.jpeg",
     "static/media/Zara.jpeg": "/static/media/Zara.ddc5f709cea069e6c35b.jpeg",
@@ -732,11 +735,11 @@
     "static/media/GitHub-Logo.png": "/static/media/GitHub-Logo.f26fc6f45440f7855185.png",
     "index.html": "/index.html",
     "main.1f563bbf.css.map": "/static/css/main.1f563bbf.css.map",
-    "main.d76fd5f7.js.map": "/static/js/main.d76fd5f7.js.map",
+    "main.662727e8.js.map": "/static/js/main.662727e8.js.map",
     "787.07aee4ee.chunk.js.map": "/static/js/787.07aee4ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f563bbf.css",
-    "static/js/main.d76fd5f7.js"
+    "static/js/main.662727e8.js"
   ]
 }
