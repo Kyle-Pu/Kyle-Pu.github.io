@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bf3c4cd1.css",
-    "main.js": "/static/js/main.a917a3b3.js",
+    "main.js": "/static/js/main.e9bffb1c.js",
     "static/js/787.07aee4ee.chunk.js": "/static/js/787.07aee4ee.chunk.js",
     "static/media/IMG_4430.jpeg": "/static/media/IMG_4430.ad78b96580ea7bc2daa0.jpeg",
     "static/media/5.jpeg": "/static/media/5.5878a2c7a0f66ccf7954.jpeg",
@@ -447,6 +447,7 @@
     "static/media/Hair.jpeg": "/static/media/Hair.8e22a1ebcee89c80f0be.jpeg",
     "static/media/IMG_5658.jpeg": "/static/media/IMG_5658.76d6126461afdf135645.jpeg",
     "static/media/4.jpeg": "/static/media/4.14be77f3d668427c04c4.jpeg",
+    "static/media/SightReading.png": "/static/media/SightReading.94d96b63b1bae1a4f4e7.png",
     "static/media/IMG_4665.jpeg": "/static/media/IMG_4665.938cd6206646700bad4b.jpeg",
     "static/media/IMG_9307.jpeg": "/static/media/IMG_9307.e48c7e808cab50e88f58.jpeg",
     "static/media/PierViews.jpeg": "/static/media/PierViews.37cc84afe88b7ec5db11.jpeg",
@@ -739,11 +740,11 @@
     "static/media/GitHub-Logo.png": "/static/media/GitHub-Logo.f26fc6f45440f7855185.png",
     "index.html": "/index.html",
     "main.bf3c4cd1.css.map": "/static/css/main.bf3c4cd1.css.map",
-    "main.a917a3b3.js.map": "/static/js/main.a917a3b3.js.map",
+    "main.e9bffb1c.js.map": "/static/js/main.e9bffb1c.js.map",
     "787.07aee4ee.chunk.js.map": "/static/js/787.07aee4ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf3c4cd1.css",
-    "static/js/main.a917a3b3.js"
+    "static/js/main.e9bffb1c.js"
   ]
 }
