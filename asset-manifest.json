@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bf3c4cd1.css",
-    "main.js": "/static/js/main.967fd9ed.js",
+    "main.js": "/static/js/main.ff452be3.js",
     "static/js/787.07aee4ee.chunk.js": "/static/js/787.07aee4ee.chunk.js",
     "static/media/IMG_4430.jpeg": "/static/media/IMG_4430.ad78b96580ea7bc2daa0.jpeg",
     "static/media/5.jpeg": "/static/media/5.5878a2c7a0f66ccf7954.jpeg",
@@ -725,26 +725,32 @@
     "static/media/selector-safari.png": "/static/media/selector-safari.1e41c5d26ea26714f59b.png",
     "static/media/Breakfast.jpeg": "/static/media/Breakfast.0c8778de400711e4fec6.jpeg",
     "static/media/Knife.jpeg": "/static/media/Knife.58c989cf643376f514ac.jpeg",
+    "static/media/Citywalk.jpeg": "/static/media/Citywalk.69a84372ddca6c7b6991.jpeg",
     "static/media/Newark.jpeg": "/static/media/Newark.00b6c6c11b6d75d72a34.jpeg",
     "static/media/IMG_9462.jpeg": "/static/media/IMG_9462.d19da051ce7bf3e79e49.jpeg",
     "static/media/nutrition.png": "/static/media/nutrition.1dee6b2ca9c898c8a2fc.png",
     "static/media/Boiling.jpeg": "/static/media/Boiling.3451b6916029901d9052.jpeg",
+    "static/media/SB_Pink.jpeg": "/static/media/SB_Pink.6d4c32d8dff869ed7f80.jpeg",
     "static/media/exec_edu_building.jpeg": "/static/media/exec_edu_building.c3f938806827a4574d3d.jpeg",
     "static/media/FreeStuff2.jpeg": "/static/media/FreeStuff2.8a51c96ea843c0c4f521.jpeg",
+    "static/media/Bowser.jpeg": "/static/media/Bowser.13a995d2c0b9f754682f.jpeg",
+    "static/media/Mario.jpeg": "/static/media/Mario.e8c8c28fa8d54cfc74ca.jpeg",
+    "static/media/KTownHaircut.jpeg": "/static/media/KTownHaircut.33ca1d56d2de101e9dc6.jpeg",
     "static/media/FriendInNeed.png": "/static/media/FriendInNeed.247857aa95e517855008.png",
     "static/media/JoyMilktea.jpeg": "/static/media/JoyMilktea.064c8209032be7afff65.jpeg",
     "static/media/Morning.jpeg": "/static/media/Morning.8d22d36cf7b7ab7669e8.jpeg",
     "static/media/VerticalHair.jpeg": "/static/media/VerticalHair.8d22d36cf7b7ab7669e8.jpeg",
     "static/media/BrooklynSitcom.jpeg": "/static/media/BrooklynSitcom.2fc18b76be7c73bb3913.jpeg",
+    "static/media/SB_Beach.jpeg": "/static/media/SB_Beach.d6d7ddcfc49cf0d55349.jpeg",
     "static/media/Charlotte.jpeg": "/static/media/Charlotte.6f3f3d91be20601e129f.jpeg",
     "static/media/GitHub-Logo.png": "/static/media/GitHub-Logo.f26fc6f45440f7855185.png",
     "index.html": "/index.html",
     "main.bf3c4cd1.css.map": "/static/css/main.bf3c4cd1.css.map",
-    "main.967fd9ed.js.map": "/static/js/main.967fd9ed.js.map",
+    "main.ff452be3.js.map": "/static/js/main.ff452be3.js.map",
     "787.07aee4ee.chunk.js.map": "/static/js/787.07aee4ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf3c4cd1.css",
-    "static/js/main.967fd9ed.js"
+    "static/js/main.ff452be3.js"
   ]
 }
