@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4cb7eeaf.css",
-    "main.js": "/static/js/main.d64899a0.js",
+    "main.js": "/static/js/main.1342ce70.js",
     "static/js/787.07aee4ee.chunk.js": "/static/js/787.07aee4ee.chunk.js",
     "static/media/IMG_4430.jpeg": "/static/media/IMG_4430.ad78b96580ea7bc2daa0.jpeg",
     "static/media/5.jpeg": "/static/media/5.5878a2c7a0f66ccf7954.jpeg",
@@ -724,6 +724,7 @@
     "static/media/Dancing.png": "/static/media/Dancing.51397f63298f6d4ba857.png",
     "static/media/selector-safari.png": "/static/media/selector-safari.1e41c5d26ea26714f59b.png",
     "static/media/Breakfast.jpeg": "/static/media/Breakfast.0c8778de400711e4fec6.jpeg",
+    "static/media/LA_Hacks_Pauley.jpeg": "/static/media/LA_Hacks_Pauley.7afba89e0a144dc2d11e.jpeg",
     "static/media/Knife.jpeg": "/static/media/Knife.58c989cf643376f514ac.jpeg",
     "static/media/Citywalk.jpeg": "/static/media/Citywalk.69a84372ddca6c7b6991.jpeg",
     "static/media/Newark.jpeg": "/static/media/Newark.00b6c6c11b6d75d72a34.jpeg",
@@ -746,11 +747,11 @@
     "static/media/GitHub-Logo.png": "/static/media/GitHub-Logo.f26fc6f45440f7855185.png",
     "index.html": "/index.html",
     "main.4cb7eeaf.css.map": "/static/css/main.4cb7eeaf.css.map",
-    "main.d64899a0.js.map": "/static/js/main.d64899a0.js.map",
+    "main.1342ce70.js.map": "/static/js/main.1342ce70.js.map",
     "787.07aee4ee.chunk.js.map": "/static/js/787.07aee4ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4cb7eeaf.css",
-    "static/js/main.d64899a0.js"
+    "static/js/main.1342ce70.js"
   ]
 }
