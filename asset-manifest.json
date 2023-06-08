@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4cb7eeaf.css",
-    "main.js": "/static/js/main.1342ce70.js",
+    "main.js": "/static/js/main.6a0f2ab0.js",
     "static/js/787.07aee4ee.chunk.js": "/static/js/787.07aee4ee.chunk.js",
     "static/media/IMG_4430.jpeg": "/static/media/IMG_4430.ad78b96580ea7bc2daa0.jpeg",
     "static/media/5.jpeg": "/static/media/5.5878a2c7a0f66ccf7954.jpeg",
@@ -646,7 +646,6 @@
     "static/media/Skyline.jpeg": "/static/media/Skyline.21695d8ac5f5e8024c16.jpeg",
     "static/media/IMG_5910.jpeg": "/static/media/IMG_5910.aa61bc8c03959cda69f7.jpeg",
     "static/media/MainHospital.jpeg": "/static/media/MainHospital.b8850c89fcbe304a9f80.jpeg",
-    "static/media/nyc_pfp_selfie.png": "/static/media/nyc_pfp_selfie.8332dff2f8774394bf00.png",
     "static/media/IMG_4663.jpeg": "/static/media/IMG_4663.3bacfb9997e2a12ece63.jpeg",
     "static/media/IMG_5925.jpeg": "/static/media/IMG_5925.46b11fd5f021ebe2e556.jpeg",
     "static/media/Exercise.jpeg": "/static/media/Exercise.58dd9a30e0d10b31d751.jpeg",
@@ -664,6 +663,7 @@
     "static/media/IMG_9123.jpeg": "/static/media/IMG_9123.2034475def1e84fcf553.jpeg",
     "static/media/CoffeeBreak.jpeg": "/static/media/CoffeeBreak.5186de00d710fb29fa16.jpeg",
     "static/media/IMG_9494.jpeg": "/static/media/IMG_9494.16eee7d357951d240ab6.jpeg",
+    "static/media/sm_pfp.png": "/static/media/sm_pfp.069796f9efaf58b4df21.png",
     "static/media/Everyone.jpeg": "/static/media/Everyone.cbdb441b2e2a062a8d72.jpeg",
     "static/media/IMG_9536.jpeg": "/static/media/IMG_9536.7aaeacade7b0a351c0ab.jpeg",
     "static/media/ManhattanSunset.jpeg": "/static/media/ManhattanSunset.6d76b5fcaa22c5fabc57.jpeg",
@@ -747,11 +747,11 @@
     "static/media/GitHub-Logo.png": "/static/media/GitHub-Logo.f26fc6f45440f7855185.png",
     "index.html": "/index.html",
     "main.4cb7eeaf.css.map": "/static/css/main.4cb7eeaf.css.map",
-    "main.1342ce70.js.map": "/static/js/main.1342ce70.js.map",
+    "main.6a0f2ab0.js.map": "/static/js/main.6a0f2ab0.js.map",
     "787.07aee4ee.chunk.js.map": "/static/js/787.07aee4ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4cb7eeaf.css",
-    "static/js/main.1342ce70.js"
+    "static/js/main.6a0f2ab0.js"
   ]
 }
