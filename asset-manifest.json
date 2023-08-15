@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4cb7eeaf.css",
-    "main.js": "/static/js/main.fc1c7e46.js",
+    "main.js": "/static/js/main.0684cdf8.js",
     "static/js/787.07aee4ee.chunk.js": "/static/js/787.07aee4ee.chunk.js",
     "static/media/IMG_4430.jpeg": "/static/media/IMG_4430.ad78b96580ea7bc2daa0.jpeg",
     "static/media/5.jpeg": "/static/media/5.5878a2c7a0f66ccf7954.jpeg",
@@ -739,6 +739,7 @@
     "static/media/KTownHaircut.jpeg": "/static/media/KTownHaircut.33ca1d56d2de101e9dc6.jpeg",
     "static/media/FriendInNeed.png": "/static/media/FriendInNeed.247857aa95e517855008.png",
     "static/media/JoyMilktea.jpeg": "/static/media/JoyMilktea.064c8209032be7afff65.jpeg",
+    "static/media/DGF.png": "/static/media/DGF.108a17c8535106190fa9.png",
     "static/media/Morning.jpeg": "/static/media/Morning.8d22d36cf7b7ab7669e8.jpeg",
     "static/media/VerticalHair.jpeg": "/static/media/VerticalHair.8d22d36cf7b7ab7669e8.jpeg",
     "static/media/BrooklynSitcom.jpeg": "/static/media/BrooklynSitcom.2fc18b76be7c73bb3913.jpeg",
@@ -747,11 +748,11 @@
     "static/media/GitHub-Logo.png": "/static/media/GitHub-Logo.f26fc6f45440f7855185.png",
     "index.html": "/index.html",
     "main.4cb7eeaf.css.map": "/static/css/main.4cb7eeaf.css.map",
-    "main.fc1c7e46.js.map": "/static/js/main.fc1c7e46.js.map",
+    "main.0684cdf8.js.map": "/static/js/main.0684cdf8.js.map",
     "787.07aee4ee.chunk.js.map": "/static/js/787.07aee4ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4cb7eeaf.css",
-    "static/js/main.fc1c7e46.js"
+    "static/js/main.0684cdf8.js"
   ]
 }
